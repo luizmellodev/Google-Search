@@ -1,0 +1,25 @@
+language: python
+sudo: false
+python:
+  - '3.6'
+  - '3.7'
+matrix:
+  allow_failures:
+  - python: '3.7'
+deploy:
+  provider: pypi
+  user: beni
+  password:
+    secure: XfUbc5Tnjq8mUHnv/rrQvcQ5m+k7mvk2sAwhS1Hzi2NFXaiPQF0YR2er0BDDQOFYba+MBd57l4zHdyti8Y39uVI2ZfY10c5KYio3VzXDU2doycLf7hY8cqKs8UioabVehrPU96GErVEUyA2Jj1cqrsIUX7Smj8qby0DfX+igJtM=
+  on:
+    tags: true
+    repo: abenassi/Google-Search-API
+install:
+- pip install -r requirements.txt
+- python setup.py install
+- pip install coveralls
+script:
+- nosetests
+after_success: coveralls
+os:
+- linux

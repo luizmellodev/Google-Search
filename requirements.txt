@@ -1,0 +1,7 @@
+beautifulsoup4
+selenium
+requests
+unidecode
+vcrpy
+future
+fake-useragent
