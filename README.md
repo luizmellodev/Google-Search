@@ -23,8 +23,6 @@ Google Search API is a python based library for searching various functionalitie
   - [Google Calculator](#google-calculator)
   - [Google Image Search](#google-image-search)
   - [Google Currency Converter (Exchange Rates)](#google-currency-converter-exchange-rates)
-  - [Contributions](#contributions)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Development current status
@@ -276,12 +274,4 @@ google.convert_currency(5.0, "USD", "EUR")
 As a side note, `convert_currency` is always more accurate than performing your own math on `exchange_rate` because of possible rounding errors. However if you have more than one value to convert it is best to call `exchange_rate` and cache the result to use for multiple calculations instead of querying the google server for each one.
 
 
-## Contributions
-
-All contributions are very welcome! As you have seen, there is still some methods that are not implemented. The structure of the package is intended to facilitate that you can contribute implementing or improving any method without changing other code.
-
-Other interesting things that you may do is to build a good command line interface for the package. You can also take a look to the [TODO list](https://github.com/abenassi/Google-Search-API/blob/master/TODO.md)
-
-For all contributions, we intend to follow the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-# google-search-crawler
 # google-search-crawler
