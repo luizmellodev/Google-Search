@@ -1,16 +1,16 @@
 from __future__ import unicode_literals
 from __future__ import absolute_import
+from re import match, findall
+from unidecode import unidecode
+from urllib.parse import unquote, parse_qs, urlparse
+import urllib.parse
+from bs4 import BeautifulSoup
+from .utils import _get_search_url, get_html
+from builtins import object
+from builtins import range
 
 from future import standard_library
 standard_library.install_aliases()
-from builtins import range
-from builtins import object
-from .utils import _get_search_url, get_html
-from bs4 import BeautifulSoup
-import urllib.parse
-from urllib.parse import unquote, parse_qs, urlparse
-from unidecode import unidecode
-from re import match, findall
 
 
 class GoogleResult(object):
@@ -26,7 +26,8 @@ class GoogleResult(object):
         self.cached = None  # Cached version link of page
         self.page = None  # Results page this one was on
         self.index = None  # What index on this page it was on
-        self.number_of_results = None # The total number of results the query returned
+        self.number_of_results = None  # The total number of results the query returned
+        self.variavel = None  # Nome do arquivo .csv
 
     def __repr__(self):
         name = self._limit_str_size(self.name, 55)
@@ -51,7 +52,7 @@ class GoogleResult(object):
 
 
 # PUBLIC
-def search(query, pages=1, lang='en', area='com', ncr=False, void=True, time_period=False, sort_by_date=False, first_page=0):
+def search(query, pages=1, lang='en', area='com', ncr=False, void=True, time_period=False, sort_by_date=False, first_page=0, variavel='arquivo.csv'):
     """Returns a list of GoogleResult.
 
     Args:
@@ -66,7 +67,8 @@ def search(query, pages=1, lang='en', area='com', ncr=False, void=True, time_per
 
     results = []
     for i in range(first_page, first_page + pages):
-        url = _get_search_url(query, i, lang=lang, area=area, ncr=ncr, time_period=time_period, sort_by_date=sort_by_date)
+        url = _get_search_url(query, i, lang=lang, area=area, ncr=ncr,
+                              time_period=time_period, sort_by_date=sort_by_date)
         html = get_html(url)
 
         if html:
@@ -209,6 +211,7 @@ def _get_cached(li):
         if link.startswith("/url?") or link.startswith("/search?"):
             return urllib.parse.urljoin("http://www.google.com", link)
     return None
+
 
 def _get_number_of_results(results_div):
     """Return the total number of results of the google search.
