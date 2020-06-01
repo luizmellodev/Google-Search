@@ -1,6 +1,7 @@
 
 Google Search API
 =====
+This project consists of a repository modified for the specific needs of a project.
 
 [![Coverage Status](https://coveralls.io/repos/abenassi/Google-Search-API/badge.svg?branch=master)](https://coveralls.io/r/abenassi/Google-Search-API?branch=master)
 [![Build Status](https://travis-ci.org/abenassi/Google-Search-API.svg?branch=master)](https://travis-ci.org/abenassi/Google-Search-API)
