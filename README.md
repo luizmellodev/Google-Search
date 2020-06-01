@@ -1,5 +1,5 @@
 
-Google Search API
+Google Search Web Spider
 =====
 This project consists of a repository modified for the specific needs of a project.
 
