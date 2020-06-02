@@ -271,6 +271,3 @@ google.convert_currency(5.0, "USD", "EUR")
 ```
 
 As a side note, `convert_currency` is always more accurate than performing your own math on `exchange_rate` because of possible rounding errors. However if you have more than one value to convert it is best to call `exchange_rate` and cache the result to use for multiple calculations instead of querying the google server for each one.
-
-
-# google-search-web-spider
