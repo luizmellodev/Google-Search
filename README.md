@@ -1,6 +1,5 @@
 
-Google Search Web Spider
-=====
+Google Search API
 This project consists of a repository modified for the specific needs of a project.
 
 *The original package was developed by Anthony Casagrande and can be downloaded at https://github.com/BirdAPI This is a modified package that I created for my needs*
