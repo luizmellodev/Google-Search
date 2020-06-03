@@ -33,12 +33,14 @@ try:
                 pesquisas = pesquisas + 1
 
     else:
+        sites = 'Nenhum site inserido'
         resultados = google.search('"{}"'.format(pesquisa), int(numeroPag))
         with open('{}.csv'.format(dir_path), 'w') as csv_file:
             for res in resultados:
                 csv_file.write(
                     f"{res.name},{res.link},{res.description}\n") 
                 pesquisas = pesquisas + 1
+                
 
     if(resultados):
         print('\n\n\nPesquisa feita com sucesso.\n Palavras-chaves:' + '"{}"'.format(pesquisa) +
