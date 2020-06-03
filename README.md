@@ -1,12 +1,8 @@
 
-Google Search API
-=====
+# Google Search
+This project consists of a repository modified for the specific needs of a project.
 
-[![Coverage Status](https://coveralls.io/repos/abenassi/Google-Search-API/badge.svg?branch=master)](https://coveralls.io/r/abenassi/Google-Search-API?branch=master)
-[![Build Status](https://travis-ci.org/abenassi/Google-Search-API.svg?branch=master)](https://travis-ci.org/abenassi/Google-Search-API)
-[![](https://img.shields.io/pypi/v/Google-Search-API.svg)](https://pypi.python.org/pypi/Google-Search-API)
-
-*The original package was developed by Anthony Casagrande and can be downloaded at https://github.com/BirdAPI This is a forked package that I will continue maintaining in the foreseeable future. I will try to maintain a strongly modularized design so when something is broken anyone can quickly repair it. All contributions are very welcome.*
+*The original package was developed by Anthony Casagrande and can be downloaded at https://github.com/BirdAPI This is a modified package that I created for my needs*
 
 Google Search API is a python based library for searching various functionalities of google.  It uses screen scraping to retrieve the results, and thus is unreliable if the way google's web pages are returned change in the future. This package is currently under heavy refactoring so changes in the user interface should be expected for the time being.
 
@@ -26,8 +22,6 @@ Google Search API is a python based library for searching various functionalitie
   - [Google Calculator](#google-calculator)
   - [Google Image Search](#google-image-search)
   - [Google Currency Converter (Exchange Rates)](#google-currency-converter-exchange-rates)
-  - [Contributions](#contributions)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Development current status
@@ -277,14 +271,3 @@ google.convert_currency(5.0, "USD", "EUR")
 ```
 
 As a side note, `convert_currency` is always more accurate than performing your own math on `exchange_rate` because of possible rounding errors. However if you have more than one value to convert it is best to call `exchange_rate` and cache the result to use for multiple calculations instead of querying the google server for each one.
-
-
-## Contributions
-
-All contributions are very welcome! As you have seen, there is still some methods that are not implemented. The structure of the package is intended to facilitate that you can contribute implementing or improving any method without changing other code.
-
-Other interesting things that you may do is to build a good command line interface for the package. You can also take a look to the [TODO list](https://github.com/abenassi/Google-Search-API/blob/master/TODO.md)
-
-For all contributions, we intend to follow the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-# google-search-crawler
-# google-search-crawler
