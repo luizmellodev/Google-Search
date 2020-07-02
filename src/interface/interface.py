@@ -20,6 +20,10 @@ class TelaPython:
             [sg.Text('*Nome do arquivo (ex: resultado1))'),
              sg.InputText(key='arquivo')],
             [sg.Button('Fazer a pesquisa'), sg.Button('Cancelar')],
+<<<<<<< HEAD
+=======
+            [sg.Output(size=(80, 10))],
+>>>>>>> e55f841c6e8ba7948f41b78792c2f387e48603b8
         ]
         # Janela
         self.window = sg.Window('Google Search API', layout)
@@ -31,10 +35,17 @@ class TelaPython:
             sites = self.values['sites']
             numeroPag = self.values['paginas']
             arquivo = self.values['arquivo']
+<<<<<<< HEAD
             #print(f'Palavras chaves: {pesquisa}')
             #print(f'Sites: {sites}')
             #print(f'Páginas: {numeroPag}')
             #print(f'Arquivo: {arquivo}')
+=======
+            print(f'Palavras chaves: {pesquisa}')
+            print(f'Sites: {sites}')
+            print(f'Páginas: {numeroPag}')
+            print(f'Arquivo: {arquivo}')
+>>>>>>> e55f841c6e8ba7948f41b78792c2f387e48603b8
 
             return pesquisa, sites, numeroPag, arquivo
 

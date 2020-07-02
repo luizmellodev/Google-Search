@@ -5,3 +5,4 @@ unidecode
 vcrpy
 future
 fake-useragent
+PySimpleGUI
