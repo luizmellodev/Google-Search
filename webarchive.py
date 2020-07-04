@@ -1,7 +1,6 @@
 from google import google
 import os
 import traceback
-<<<<<<< HEAD:webarchive.py
 import csv 
 
 
@@ -17,11 +16,6 @@ numeroPag = input()
 
 print('Informe o nome do arquivo .csv desejado (Informe apenas o nome, não é preciso escrever .csv)')
 arquivo = input()
-=======
-from interface.interface import TelaPython
-tela = TelaPython()
-pesquisa, sites, numeroPag, arquivo = tela.Iniciar()
->>>>>>> e55f841c6e8ba7948f41b78792c2f387e48603b8:src/main.py
 
 dir_path = os.path.join('./resultados', arquivo)
 if not os.path.exists('./resultados'):

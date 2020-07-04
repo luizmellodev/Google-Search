@@ -1,9 +1,9 @@
 from google import google
 import os
-import csv 
 import traceback, html2text, json, re
 from interface.interface import TelaPython
 from google.modules.utils import get_html
+import csv 
 
 tela = TelaPython()
 pesquisa, sites, numeroPag, arquivo = tela.Iniciar()
