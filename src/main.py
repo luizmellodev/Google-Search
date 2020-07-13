@@ -18,16 +18,16 @@ if not os.path.exists(dir_path):
 def pesquisageral(sites, pesquisa, numeroPag, dir_path):
     try:
         if(sites):
-            resultados = google.search_news('site: {}'.format(
-                sites) + '"{}"'.format(pesquisa), int(numeroPag))
+            resultados = google.search_news('site:{}'.format(
+                sites) + ' "{}"'.format(pesquisa), int(numeroPag))
         else:
             sites = 'Nenhum site inserido'
             resultados = google.search_news('"{}"'.format(
                 pesquisa), int(numeroPag))
         with open('{}.csv'.format(os.path.join(dir_path, "resultados_da_pesquisa")), 'w',  encoding='utf-8') as csv_file:
             for res in resultados:
-                csv_file.write(
-                    f"{res.name}\t{res.link}\t{res.description}\n")
+                csv_file.write(f"{res.name}\t{res.link}\t{res.description}".replace("\n",' '))
+                csv_file.write('\n')
                 arquivotxt = re.sub('\W', '_', res.name)
                 with open('{}.txt'.format(os.path.join(dir_path, arquivotxt[:40])), 'w', encoding='utf-8') as text:
                     try:
@@ -53,7 +53,10 @@ def markdown(site):
     html = html.decode('utf-8', errors='ignore')
     md = handler.handle(html)
     md = filterer.applyGenericFilter(md)
-    if 'folha' in site:
-        md = filterer.applyFolhaFilter(md)
+    if site is not None:
+        if 'folha' in site:
+            md = filterer.applyFolhaFilter(md)
+        if 'estadao' in site:
+            md = filterer.applyEstadaoFilter(md)
     return md
 pesquisageral(sites, pesquisa, numeroPag, dir_path)

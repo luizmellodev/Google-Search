@@ -28,9 +28,29 @@ def applyFolhaFilter(md):
 		pass
 
 	for blank in blanks:
-		try:
-			del lines[lines.index(blank)]
-		except:
-			pass
+		if blank in lines:
+			lines.remove(blank)
 	
+	return '\n'.join(lines)
+
+
+def applyEstadaoFilter(md):
+	lines = md.split('\n')
+
+	for i in range(len(lines)):
+		if '#' in lines[0]:
+			break
+		del lines[0]
+
+	lines = lines[:lines.index('Institucional')]
+
+	if '### Comentários' in lines:
+		lines = lines[:lines.index('### Comentários')]
+
+	blanks = "Continuar lendo,Encontrou algum erro? Entre em contato,## Destaques em _Geral_".split(',')
+
+	for blank in blanks:
+		if blank in lines:
+			lines.remove(blank)
+
 	return '\n'.join(lines)
