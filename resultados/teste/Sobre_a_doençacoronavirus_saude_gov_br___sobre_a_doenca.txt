@@ -1,0 +1,219 @@
+![Wayback Machine](/_static/images/toolbar/wayback-toolbar-logo.png)
+
+success
+
+fail
+
+|  | **Jun** | JUL | Aug  
+---|---|---  
+![Previous capture](/_static/images/toolbar/wm_tb_prv_on.png) | 09 | ![Next
+capture](/_static/images/toolbar/wm_tb_nxt_off.png)  
+2019 | 2020 | 2021  
+  
+62 captures
+
+15 Mar 2020 - 09 Jul 2020
+
+|  
+  
+About this capture
+
+COLLECTED BY
+
+Collection: Save Page Now
+
+TIMESTAMPS
+
+![loading](/_static/images/loading.gif)
+
+  * Portal do Governo Brasileiro
+
+Navegação
+
+Ministério da
+
+# Saúde
+  * Alto Contraste
+  * VLibras
+
+O que você precisa saber
+
+  * O que é Covid-19
+  * Quais são os sintomas
+  * Como é transmitido 
+  * Diagnóstico 
+  * Se eu ficar doente
+  * Serviço de Saúde
+  * Fake News
+  * Perguntas e respostas
+  * Painel Covid-19
+  * App Coronavírus 
+
+Transparência
+
+  * Portarias publicadas sobre COVID-19
+  * Painel de Leitos e Insumos
+  * Gastos com COVID-19
+  * Resposta Brasileira à Emergência
+
+Profissional e gestor
+
+  * Boletins Epidemiológicos
+  * Manejo Clínico e Tratamento
+  * Medidas não Farmacológicas
+  * Definição de Caso e Notificação
+  * EPI
+  * Capacitação
+  * Cadastro de Profissionais
+  * Saúde Indígena 
+  * Diagnóstico clínico e laboratorial
+  * Saúde e segurança do trabalhador (EPI)
+
+#  Sobre a doença
+
+## O que é COVID-19
+
+A **COVID-19** é uma doença causada pelo coronavírus **SARS-CoV-2** , que
+apresenta um quadro clínico que varia de infecções assintomáticas a quadros
+respiratórios graves. De acordo com a Organização Mundial de Saúde (OMS), a
+maioria dos pacientes com COVID-19 (cerca de 80%) podem ser assintomáticos e
+cerca de 20% dos casos podem requerer atendimento hospitalar por apresentarem
+dificuldade respiratória e desses casos aproximadamente 5% podem necessitar de
+suporte para o tratamento de insuficiência respiratória (suporte
+ventilatório).
+
+### O que é o coronavírus?
+
+Coronavírus é uma família de vírus que causam infecções respiratórias. **O
+novo agente do coronavírus foi descoberto em 31/12/19** após casos registrados
+na China. Provoca a doença chamada de coronavírus (COVID-19).
+
+Os primeiros coronavírus humanos foram isolados pela primeira vez em 1937. No
+entanto, foi em 1965 que o vírus foi descrito como coronavírus, em decorrência
+do perfil na microscopia, parecendo uma coroa.
+
+A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida,
+sendo as crianças pequenas mais propensas a se infectarem com o tipo mais
+comum do vírus. Os coronavírus mais comuns que infectam humanos são o alpha
+coronavírus 229E e NL63 e beta coronavírus OC43, HKU1.
+
+## Quais são os sintomas
+
+Os sintomas da COVID-19 podem variar de um simples resfriado até uma pneumonia
+severa. Sendo os sintomas mais comuns:
+
+  * Tosse
+  * Febre 
+  * Coriza 
+  * Dor de garganta
+  * Dificuldade para respirar
+
+## Como é transmitido
+
+A transmissão acontece de uma pessoa doente para outra ou por contato próximo
+por meio de:  
+• Toque do aperto de mão;  
+• Gotículas de saliva;  
+• Espirro;  
+• Tosse;  
+• Catarro;  
+• Objetos ou superfícies contaminadas, como celulares, mesas, maçanetas,
+brinquedos, teclados de computador etc.
+
+## Diagnóstico
+
+O diagnóstico da COVID-19 é realizado primeiramente pelo profissional de saúde
+que deve avaliar a presença de critérios clínicos:
+
+  * Pessoa com quadro respiratório agudo, caracterizado por sensação febril ou febre, que pode ou não estar presente na hora da consulta (podendo ser relatada ao profissional de saúde), acompanhada de tosse OU dor de garganta OU coriza OU dificuldade respiratória, o que é chamado de Síndrome Gripal.
+  * Pessoa com desconforto respiratório/dificuldade para respirar OU pressão persistente no tórax OU saturação de oxigênio menor do que 95% em ar ambiente OU coloração azulada dos lábios ou rosto, o que é chamado de Síndrome Respiratória Aguda Grave
+
+Caso o paciente apresente os sintomas, o profissional de saúde poderá
+solicitar exame laboratoriais:
+
+  * De biologia molecular (RT-PCR em tempo real) que diagnostica tanto a COVID-19, a Influenza ou a presença de Vírus Sincicial Respiratório (VSR).
+  * Imunológico (teste rápido) que detecta, ou não, a presença de anticorpos em amostras coletadas somente após o sétimo dia de início dos sintomas.
+
+O diagnóstico da COVID-19 também pode ser realizado a partir de critérios
+como: histórico de contato próximo ou domiciliar, nos últimos 7 dias antes do
+aparecimento dos sintomas, com caso confirmado laboratorialmente para COVID-19
+e para o qual não foi possível realizar a investigação laboratorial
+específica, também observados pelo profissional durante a consulta.
+
+## Como se proteger
+
+As recomendações de prevenção à COVID-19 são as seguintes:
+
+  * Lave com frequência as mãos até a altura dos punhos, com água e sabão, ou então higienize com álcool em gel 70%.
+  * Ao tossir ou espirrar, cubra nariz e boca com lenço ou com o braço, e não com as mãos.
+  * Evite tocar olhos, nariz e boca com as mãos não lavadas.
+  * Ao tocar, lave sempre as mãos como já indicado.
+  * Mantenha uma distância mínima de cerca de 2 metros de qualquer pessoa tossindo ou espirrando.
+  * Evite abraços, beijos e apertos de mãos. Adote um comportamento amigável sem contato físico, mas sempre com um sorriso no rosto.
+  * Higienize com frequência o celular e os brinquedos das crianças.
+  * Não compartilhe objetos de uso pessoal, como talheres, toalhas, pratos e copos.
+  * Mantenha os ambientes limpos e bem ventilados.
+  * Evite circulação desnecessária nas ruas, estádios, teatros, shoppings, shows, cinemas e igrejas. Se puder, fique em casa.
+  * Se estiver doente, evite contato físico com outras pessoas, principalmente idosos e doentes crônicos, e fique em casa até melhorar.
+  * Durma bem e tenha uma alimentação saudável.
+  * Utilize máscaras caseiras ou artesanais feitas de tecido em situações de saída de sua residência. 
+
+Veja aqui como confeccionar e usar a máscara caseira.
+
+## Dicas para viajantes
+
+  * Caso você precise viajar, avalie a real necessidade. Se for inevitável viajar, previna-se e siga as orientações das autoridades de saúde locais.
+
+Ao voltar de viagens internacionais ou locais recomenda-se:
+
+  * **No caso de viagens internacionais** : o isolamento domiciliar voluntário por 7 dias após o desembarque, mesmo que não tenha apresentado os sintomas.
+  * **No caso de viagens locais** : ficar atento à sua condição de saúde, principalmente nos primeiros 14 dias.
+  * Reforçar os hábitos de higiene, como lavar as mãos com água e sabão.
+  * Caso apresente sintomas de gripe, siga as orientações do Ministério da Saúde para isolamento domiciliar.
+
+## Se eu ficar doente
+
+Caso você se sinta doente, com sintomas de gripe, procure a rede de atenção à
+saúde, evite contato físico com outras pessoas, principalmente idosos e
+doentes crônicos.
+
+Em caso de diagnóstico positivo para COVID-19, siga as seguintes
+recomendações:
+
+  * Fique em isolamento domiciliar.
+  * Utilize máscara o tempo todo.
+  * Se for preciso cozinhar, use máscara de proteção, cobrindo boca e nariz todo o tempo.
+  * Depois de usar o banheiro, nunca deixe de lavar as mãos com água e sabão e sempre limpe vaso, pia e demais superfícies com álcool ou água sanitária para desinfecção do ambiente.
+  * Separe toalhas de banho, garfos, facas, colheres, copos e outros objetos apenas para seu uso.
+  * O lixo produzido precisa ser separado e descartado.
+  * Sofás e cadeiras também não podem ser compartilhados e precisam ser limpos frequentemente com água sanitária ou álcool 70%.
+  * Mantenha a janela aberta para circulação de ar do ambiente usado para isolamento e a porta fechada, limpe a maçaneta frequentemente com álcool 70% ou água sanitária.
+
+Caso o paciente não more sozinho, os demais moradores da devem dormir em outro
+cômodo, longe da pessoa infectada, seguindo também as seguintes recomendações:
+
+  * Manter a distância mínima de 1 metro entre o paciente e os demais moradores.
+  * Limpe os móveis da casa frequentemente com água sanitária ou álcool 70%.
+  * O Ministério da Saúde está atualizando orientações sobre isolamento e distanciamento social para a população.
+
+## Serviço de Saúde
+
+Procure um serviço de saúde apenas se apresentar falta de ar.
+
+Lista de hospitais que prestam atendimento em seu estado/município.
+
+Lista dos postos de saúde que prestam atendimento em seu estado/município.
+
+Laboratórios públicos de referência de testagem para coronavírus
+
+Voltar ao topo
+
+Não conseguiu acessar nosso CHAT? Clique aqui.
+
+Fechar
+
+Buscar
+
+Javascript de carregamento do Framework Bootstrap  Javascript de carregamento
+do Framework jQuery
+

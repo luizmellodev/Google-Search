@@ -1,0 +1,905 @@
+![Wayback Machine](/_static/images/toolbar/wayback-toolbar-logo.png)
+
+success
+
+fail
+
+|  | Jun | JUL | Aug  
+---|---|---  
+![Previous capture](/_static/images/toolbar/wm_tb_prv_off.png) | 13 | ![Next
+capture](/_static/images/toolbar/wm_tb_nxt_off.png)  
+2019 | 2020 | 2021  
+  
+2 captures
+
+13 Jul 2020 - 13 Jul 2020
+
+|  
+  
+About this capture
+
+COLLECTED BY
+
+Collection: Live Web Proxy Crawls
+
+Content crawled via the Wayback Machine Live Proxy mostly by the Save Page Now
+feature on web.archive.org.  
+  
+Liveweb proxy is a component of Internet Archive’s wayback machine project.
+The liveweb proxy captures the content of a web page in real time, archives it
+into a ARC or WARC file and returns the ARC/WARC record back to the wayback
+machine to process. The recorded ARC/WARC file becomes part of the wayback
+machine in due course of time.  
+  
+
+TIMESTAMPS
+
+![loading](/_static/images/loading.gif)
+
+Abrir sidebar menu Menu Assine
+
+#
+
+  * Ir para o conteúdo [1]
+  * Ir para o menu [2]
+  * Ir para o rodapé [3]
+
+Entrar Buscar
+
+  * cotidiano
+  * educação
+  * ambiente
+  * saúde
+  * rio de janeiro
+  * alalaô
+  * feminicídio
+  * mortes
+
+  * loterias
+  * aeroportos
+  * praias
+
+  * compartilhamento Especial
+
+compartilhamento Especial
+
+Assinantes podem liberar 5 acessos por dia para conteúdos da Folha
+
+Assinantes podem liberar 5 acessos por dia para conteúdos da Folha
+
+Assinantes podem liberar 5 acessos por dia para conteúdos da Folha
+
+ASSINE ou FAÇA LOGIN
+
+  *   *     * Copiar link
+    * 
+
+Busca
+
+Buscar no sites da Folha de S.Paulo
+
+Buscar
+
+tempo real
+
+###  __ Acompanhe as últimas notícias sobre o coronavírus
+
+Sua assinatura vale muito.
+
+ENTENDA
+
+Jornalismo que fiscaliza o poder público e veicula notícias úteis e
+inspiradoras.
+
+ASSINE A FOLHA
+
+Oferta especial R$ 1,90 no primeiro mês
+
+## Últimas notícias
+
+Gostaria de receber as principais notícias  
+do Brasil e do mundo?
+
+  * Não, obrigado
+  * Sim, aceito
+
+Assine
+
+Fechar sidebar menu
+
+  *     * Editar perfil 
+    * Senha e conta 
+    * Newsletter 
+    * Assinatura 
+    * Sair
+
+  * Edição Impressa 
+  * Últimas 
+
+  * opinião 
+
+    * Editoriais
+    * Charges
+    * Tendências/Debates
+  * colunas e blogs 
+
+    * Colunas
+    * Blogs
+    * Rotativas
+  * mais populares 
+
+    * Mais lidas
+    * Mais enviadas
+    * Mais comentadas
+  * agora
+  * acervo folha 
+
+    * Há 50 Anos
+    * Saiu no NP
+  * fotografia
+  * folha 100 anos
+
+  * coronavírus 
+
+    *   * governo bolsonaro 
+
+    * Folha Informações
+    * Painel
+  * poder 
+
+    * Governo Bolsonaro
+    * painel
+    * Entrevista da 2ª
+    * lava jato
+    * DeltaFolha
+  * mercado 
+
+    * previdência
+    * Calculadoras da Previdência
+    * folhainvest
+    * painel s.a.
+    * cifras &
+    * mpme
+    * imposto de renda
+    * Recall
+    * Publicidade Legal
+  * cotidiano 
+
+    * educação
+    * ao seu tempo
+    * Folha Verão
+    * febre amarela
+    * rio de janeiro
+    * loterias
+    * tempo
+    * Dias Melhores
+  * mundo 
+
+    * coreia do norte
+    * governo trump
+    * venezuela
+    * portugal
+  * esporte 
+
+    * esporte
+    * campeonato brasileiro
+    * Futebol Internacional
+  * ilustrada 
+
+    * mônica bergamo
+    * quadrinhos
+    * painel das letras
+    * Escuta Aqui
+    * É coisa fina
+  * ilustríssima
+  * F5 
+
+    * Bichos
+    * celebridades
+    * horóscopo
+    * você viu? 
+    * televisão
+  * guia folha
+  * ciência 
+
+    * Ambiente
+  * saúde 
+
+    * Saúde responde
+    * cannabis medicinal
+  * turismo
+  * folhinha
+  * especiais
+  * dias melhores
+  * Seminários Folha
+  * empreendedor social 
+
+    * FIIS
+  * o melhor de sãopaulo
+  * tv folha 
+
+    * tv folha 
+  * parceiros 
+
+    * Agência Fapesp
+    * BBC News Brasil 
+    * Caixin
+    * Deutsche Welle
+    * Financial Times
+    * Global Media
+    * Latino América 21
+    * Piauí
+    * Quatro Cinco Um
+    * Radio France Internationale
+    * The New York Times 
+    * The Wall Street Journal
+    * Telepadi
+    * Origem Surf
+  * banco de dados
+  * painel do leitor
+  * sobre tudo 
+
+    * carreiras
+    * morar
+    * rodas
+    * vida prática
+
+  * mais seções 
+
+    * folha en español
+    * folha in english
+    * Folha Mapas
+    * folhaleaks
+    * tudo sobre
+    * folha tópicos
+    * folha transparência
+    * versão impressa
+    * Mapa do site
+  * classificados
+
+  * fale com a folha 
+
+    * Canais para o leitor
+    * anuncie (publicidade folha)
+    * atendimento ao assinante
+    * erramos
+    * ombudsman
+    * painel do leitor
+
+  * Sobre a Folha 
+
+    * sobre o grupo folha
+    * expediente
+    * política de privacidade
+    * projeto editorial
+    * treinamento
+    * trabalhe na folha
+
+###### Contraste
+
+Claro
+
+Escuro
+
+#### Edições
+
+  * United States of America flag ENG
+  * ESP
+
+#### Siga a folha
+
+  * Link externo, abre página da Folha de S.Paulo no Twitter
+  * Link externo, abre página da Folha de S.Paulo no Linkedin
+  * Link externo, abre página da Folha de S.Paulo no Instagram
+  * Link externo, abre página RSS da Folha de S.Paulo
+
+#
+
+Descrição de chapéu Coronavírus
+
+#  Curva da Covid sugere imunidade maior e segunda onda menos provável
+
+##  Áreas mais afetadas e reabertas têm queda sustentada de mortes; proteção
+contra vírus pode estar subestimada
+
+  * compartilhamento Especial
+
+compartilhamento Especial
+
+Assinantes podem liberar 5 acessos por dia para conteúdos da Folha
+
+Assinantes podem liberar 5 acessos por dia para conteúdos da Folha
+
+Assinantes podem liberar 5 acessos por dia para conteúdos da Folha
+
+ASSINE ou FAÇA LOGIN
+
+  *   *     * Copiar link
+    * 
+
+12.jul.2020 às 23h14
+
+  * Edição Impressa
+
+  * Ouvir o texto
+
+  * Diminuir fonte
+  * Aumentar fonte
+
+**Fernando Canzian **
+
+**São Paulo**
+
+Em praticamente todas as regiões do mundo mais duramente afetadas pelo novo
+coronavírus e que retomaram as atividades há queda sustentada no número de
+mortes e infecções.
+
+A tendência é a mesma na Europa e nos estados brasileiros e norte-americanos
+mais contaminados. Nos que vinham sendo poupados, os casos estão subindo,
+elevando a média geral tanto no Brasil quanto nos Estados Unidos.
+
+Na Europa, onde a epidemia chegou antes, ela está em declínio, apesar de
+muitos países terem voltado a funcionar quase normalmente.
+
+Nos EUA, cidades mais afetadas e que tiveram ondas de protestos de rua contra
+o racismo após a morte de George Floyd, em 25 de maio, também não tiveram
+novos surtos. Já estados como Califórnia e Texas, alheios à irrupção inicial,
+são os novos focos.
+
+No Brasil, cidades como São Paulo, Manaus, Rio e Recife, já fortemente
+afetadas, estão reabrindo até agora sem repiques. Mas a epidemia se alastra no
+interior, assim como nas regiões Sul e Centro Oeste, até então poupadas.
+
+Ingleses voltam aos pubs depois de três meses ![Ingleses voltam aos pubs
+depois de três
+meses](http://web.archive.org/web/20200713103938im_/https://f.i.uol.com.br/fotografia/2020/07/04/15938987575f00f705c6a3c_1593898757_3x2_md.jpg)
+
+###
+
+ic_save
+
+ic_share
+
+Leia Mais
+
+Ícone fechar
+
+Voltar  Ver novamente
+
+Voltar
+
+####
+
+Voltar
+
+#### Compartilhe
+
+  * Ícone Facebook Facebook
+  * Ícone Whatsapp Whatsapp
+  * Ícone Twitter Twitter
+  * Ícone de messenger Messenger
+  * Ícone Linkedin Linkedin
+  * Ícone de envelope E-mail
+  * Ícone de linkCadeado representando um link Copiar link Ícone fechar
+
+![Loading](//web.archive.org/web/20200713103938im_/https://f.i.uol.com.br/hunting/furniture/1/common/icons/spin.gif)
+
+Epidemiologistas e novos estudos sugerem que a chamada imunidade coletiva
+necessária para conter a expansão da Covid-19 pode ter sido superestimada ou
+estar sendo calculada de forma imprecisa.
+
+Isso explicaria a não ocorrência de uma segunda onda de infecções até agora.
+Mesmo que, nos locais inicialmente mais afetados e reabertos, menos de 20% da
+população tenha desenvolvido anticorpos para o novo coronavírus.
+
+Há alguns meses, estimava-se que até 70% das pessoas deveriam contrair o vírus
+antes que ele não encontrasse hospedeiros para se propagar.
+
+O motivo pode ter relação com ao menos dois fatores: 1) Muito mais pessoas
+pegaram o vírus e desenvolveram anticorpos que diminuem com o tempo,
+resultando depois em testes negativos; ou elas se curaram mesmo sem a criação
+de anticorpos; 2) O principal vetor de transmissão do vírus seriam os adultos
+jovens, que circulam mais pelas cidades, sobretudo em transportes coletivos.
+
+Tome-se o caso de Manaus, considerada por epidemiologistas como um campo de
+provas para a livre evolução da epidemia devido ao baixíssimo isolamento
+social que resultou no colapso dos sistemas de saúde e funerário.
+
+Segundo a Epicovid19, maior mapeamento do coronavírus do país conduzindo pela
+Universidade Federal de Pelotas, o máximo de prevalência de anticorpos na
+população da capital do Amazonas foi encontrado entre os dias 4 e 7 de junho:
+14,6%.
+
+Na rodada seguinte de testes, entre 21 e 24 de junho, a pesquisa encontrou só
+8% dos manauaras com anticorpos.
+
+Junho foi o mês em que os sepultamentos e cremações em Manaus se reaproximaram
+das taxas pré epidemia; e julho vem sendo marcado pela desmobilização de parte
+do aparato para a Covid-19.
+
+Na cidade de São Paulo, com mais isolamento e menos mortes que Manaus,
+proporcionalmente, o máximo de prevalência de anticorpos encontrada na
+população foi de 3,3%, entre 14 e 21 de maio.
+
+Mesmo assim, e apesar da reabertura gradual, a capital registra queda
+sustentada de novos casos, a ponto de oferecer leitos a cidades onde a
+epidemia agora avança.
+
+Segundo imunologistas, é provável que o Sars-CoV-2 possa estar sendo combatido
+em duas frentes: pelos linfócitos (células) B, que produzem anticorpos, na
+resposta imune denominada humoral; e pelos linfócitos T, que não fazem isso,
+mas que também combatem o vírus eliminando células infectadas --nesse caso,
+por resposta citotóxica.
+
+Como a ação dos linfócitos T não produz anticorpos, muitas pessoas teriam
+defesa contra o vírus sem que a maioria dos testes hoje aplicados (não
+celulares) detecte isso.
+
+Outro ponto é que os anticorpos produzidos pela ação dos linfócitos B podem
+diminuir com o tempo, mas sem que se perca a imunidade.
+
+Isso explicaria a redução da prevalência, com o tempo, de anticorpos
+detectados na população nos testes em Manaus e em outras cidades monitoradas
+pela Epicovid19 —e sem que haja novos surtos.
+
+Para Julio Croda, infectologista da Fiocruz, a imunização contra o coronavírus
+pode estar se dando de forma "cruzada": pela suscetibilidade individual (com
+linfócitos B e T) e por outros fatores genéticos combinados às políticas de
+distanciamento social e o uso de máscaras.
+
+"Sem o distanciamento e a máscara, o percentual de infectados e mortos na
+população teria de ser muito maior para chegarmos à imunidade comunitária",
+afirma. Por discordar do presidente Jair Bolsonaro na questão do isolamento
+social, Croda deixou a direção do Departamento de Imunizações e Doenças
+Transmissíveis do Ministério da Saúde no final de março.
+
+Para Natalia Pasternak, doutora em microbiologia pela USP e presidente do
+Instituto Questão de Ciência, o ataque ao vírus pelos dois tipos de linfócitos
+(B e T) e o fato de os anticorpos poderem cair abaixo do detectável, sem
+prejudicar a imunização, tornam difícil aferir o tamanho da população ainda
+suscetível ao vírus.
+
+"Ela talvez já não seja tão grande, mas não sabemos. O que não podemos é
+tratar isso de forma que dê a impressão de um liberou geral [onde o vírus já
+fez muito estrago]."
+
+Pasternak afirma que a imunidade total só pode ser obtida com um número muito
+elevado de mortes ou com uma vacina --as principais em elaboração hoje tentam
+emular os dois caminhos (humoral e citotóxico) para a destruição do novo
+coronavírus.
+
+Para Daniel Soranz, pesquisador da Escola Nacional de Saúde Pública da
+Fiocruz, o número elevado de mortes em algumas cidades do Brasil ajudaria a
+explicar a inexistência de uma segunda onda de infecções, apesar da reabertura
+desses locais.
+
+"Isso ocorre às custas de muitas mortes. Pois se fossemos desenhar um cenário
+ruim, não poderíamos criar nada pior do que o que vimos em algumas cidades do
+Brasil, sobretudo nas comunidades mais pobres, como as daqui do Rio", afirma
+Soranz.
+
+Bares e restaurantes reabrem em São Paulo ![Bares e restaurantes reabrem em
+São
+Paulo](http://web.archive.org/web/20200713103938im_/https://f.i.uol.com.br/fotografia/2020/07/07/15941641725f0503cc991d3_1594164172_3x2_md.jpg)
+
+###
+
+ic_save
+
+ic_share
+
+Leia Mais
+
+Ícone fechar
+
+Voltar  Ver novamente
+
+Voltar
+
+####
+
+Voltar
+
+#### Compartilhe
+
+  * Ícone Facebook Facebook
+  * Ícone Whatsapp Whatsapp
+  * Ícone Twitter Twitter
+  * Ícone de messenger Messenger
+  * Ícone Linkedin Linkedin
+  * Ícone de envelope E-mail
+  * Ícone de linkCadeado representando um link Copiar link Ícone fechar
+
+![Loading](//web.archive.org/web/20200713103938im_/https://f.i.uol.com.br/hunting/furniture/1/common/icons/spin.gif)
+
+Agora, sem nenhuma fila e com cerca de mil pacientes em leitos de UTI no
+Sistema Único de Saúde, em menos de 20 dias a capital fluminense poderá zerar
+as internações —a um ritmo de 50 saídas ao dia, por alta hospitalar ou morte.
+
+Esper Kallás, infectologista e professor da USP, suspeita que tenham sido
+justamente os moradores das comunidades menos ricas, sobretudo os adultos
+jovens, os maiores responsáveis pela disseminação do coronavírus e da obtenção
+de uma imunidade comunitária maior nas cidades mais afetadas até agora.
+
+Mesmo que não detectada totalmente nas pesquisas de prevalência imunológica,
+como as da Universidade Federal de Pelotas, essa imunidade maior impediria
+agora uma segunda onda de infecções.
+
+“Os adultos jovens, que se locomovem muito mais em transporte público, e que
+não apresentam sintomas importantes, parecem ter sido os grandes
+disseminadores do vírus e os responsáveis, neste segundo momento, pela
+contenção de sua propagação.”
+
+Kallás afirma que, no caso da gripe comum, a imunidade comunitária é atingida
+com 33% a 44% da população infectada. Em se tratando da Covid-19, a taxa
+necessária para que isso ainda é incerta, mas ele suspeita que seja menor.
+
+Sergio Cimerman, coordenador científico da Sociedade Brasileira de
+Infectologia (SBI), alerta, porém, para os cuidados que devem ser tomados onde
+as atividades vem sendo retomadas.“Estamos longe de qualquer sinal de uma
+segunda onda, apesar da flexibilização em muitos locais. O que é certo é que o
+risco aumenta quando existem aglomerações.”
+
+Para a professora e infectologista Raquel Stucchi, da Unicamp, a dinâmica da
+pandemia do novo coronavírus tem sido um aprendizado —e ele ainda não teria
+terminado.
+
+“O Brasil foi o único país que iniciou a flexibilização na subida da curva.
+Quem fez isso próximo do platô, parece ainda estar em situação adequada. Já o
+interior, que tentou flexibilizar antes, acabou se dando muito mal”, afirma.
+
+Agora, com a epidemia avançando mais no Sul, no Centro Oeste e no interior,
+esse conjunto de decisões estaduais e municipais, combinado ao enorme grau de
+desorganização do governo federal, ainda provoca cerca de 40 mil infecções e
+mais de 1.000 mortes no Brasil todos os dias.
+
+  * compartilhamento Especial
+
+compartilhamento Especial
+
+Assinantes podem liberar 5 acessos por dia para conteúdos da Folha
+
+Assinantes podem liberar 5 acessos por dia para conteúdos da Folha
+
+Assinantes podem liberar 5 acessos por dia para conteúdos da Folha
+
+ASSINE ou FAÇA LOGIN
+
+  *   *     * Copiar link
+    * 
+
+### sua assinatura pode valer ainda mais
+
+Você já conhece as vantagens de ser assinante da Folha? Além de ter acesso a
+reportagens e colunas, você conta com newsletters exclusivas (conheça aqui).
+Também pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play
+para receber alertas das principais notícias do dia. A sua assinatura nos
+ajuda a fazer um jornalismo independente e de qualidade. Obrigado!
+
+### sua assinatura vale muito
+
+Mais de 180 reportagens e análises publicadas a cada dia. Um time com mais de
+120 colunistas. Um jornalismo profissional que fiscaliza o poder público,
+veicula notícias proveitosas e inspiradoras, faz contraponto à intolerância
+das redes sociais e traça uma linha clara entre verdade e mentira. Quanto
+custa ajudar a produzir esse conteúdo?
+
+Assine a Folha
+
+**Tópicos relacionados**
+
+  * coronavírus
+  * saúde
+
+  * Envie sua notícia 
+  * Erramos? 
+
+#### Endereço da página
+
+  * https://www1.folha.uol.com.br/cotidiano/2020/07/curva-da-covid-sugere-imunidade-maior-e-segunda-onda-menos-provavel.shtml
+
+## Comentários
+
+Os comentários não representam a opinião do jornal; a responsabilidade é do
+autor da mensagem.
+
+__****
+
+Termos e condições
+
+Todos os comentários Comente*
+
+* Apenas para assinantes da Folha
+
+#### receba notícias da folha
+
+#### Relacionadas
+
+  * ![](//web.archive.org/web/20200713103938im_/https://f.i.uol.com.br/fotografia/2020/07/11/15944889085f09f84c0f035_1594488908_3x2_xs.jpg)
+
+##  Ensaio registra vida sertaneja em tempos de Covid-19
+
+  * ##  Brasil não consegue pôr em prática promessas de testes de coronavírus 
+
+  * ##  Escola precisa de currículo flexível para progredir em tecnologia 
+
+### Veja também
+
+  * ![*******INTERNET OUT******* Suzano, SP, BRASIL, 21/05/2019, 14h30: Fachada da Escola Estadual Raul Brasil, onde aconteceu um massacre em março deste ano. A escola recebeu a presidente da Associação ](http://web.archive.org/web/20200713103938im_/https://f.i.uol.com.br/fotografia/2019/07/31/15645879785d41b7ca73852_1564587978_5x2_sm.jpg)
+
+###  Massacre em escola
+
+Compartilhar Massacre em escola: Obsessão por game, abandono dos pais e
+bullying marcaram vida de atirador de Suzano
+
+Ícone fechar
+
+##  Obsessão por game, abandono dos pais e bullying marcaram vida de atirador
+de Suzano
+
+  * ###  Novos tempos 
+
+Compartilhar Novos tempos: Nova geração revê 'masculinidade tóxica'; em
+estudo, 70% relatam serem treinados a 'ser macho'
+
+Ícone fechar
+
+##  Nova geração revê 'masculinidade tóxica'; em estudo, 70% relatam serem
+treinados a 'ser macho'
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018826.jpeg)
+
+**Pacientes do SUS lutam por inclusão de terapias mais eficientes contra
+melanoma**
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018825.jpeg)
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018144.jpeg)
+
+**Novos hábitos fazem entregas de ecommerce crescerem 70%**
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018143.png)
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018133.jpeg)
+
+**Além do trabalho duro, mineira ainda ajuda sua comunidade**
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018137.jpeg)
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018134.jpeg)
+
+**Estudante de psicologia oferece apoio a quem precisa**
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018130.png)
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018136.jpeg)
+
+**Médico toma medidas para proteger funcionários e clientes**
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018131.png)
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018135.jpeg)
+
+**Simpatia ao levar e trazer profissionais da saúde**
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2018132.png)
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2017118.jpeg)
+
+**Cápsula de baixo custo salva médicos e pacientes de Covid-19**
+
+![](http://web.archive.org/web/20200713103938im_/http://f.i.uol.com.br/estudiofolha/images/2017116.png)
+
+parar
+
+## Mais lidas  em Cotidiano
+
+Ver todas
+
+  1. Curva da Covid sugere imunidade maior e segunda onda menos provável 
+  2. Campanha incentiva o uso de oxímetros em tratamento precoce para Covid 
+  3. Policial pisa no pescoço de mulher negra e arrasta a vítima na zona sul de SP 
+  4. Brasil não consegue pôr em prática promessas de testes de coronavírus 
+  5. Casal de SP é condenado a pagar R$ 150 mil a garoto por devolvê-lo após adoção 
+
+#### Principais do dia
+
+![Curva da Covid sugere imunidade maior e segunda onda menos
+provável](http://web.archive.org/web/20200713103938im_/https://f.i.uol.com.br/fotografia/2020/07/04/15938987575f00f705c6a3c_1593898757_3x2_sm.jpg)
+
+###  Coronavírus
+
+Compartilhar
+
+## Curva da Covid sugere imunidade maior e segunda onda menos provável
+
+Áreas mais afetadas e reabertas têm queda sustentada de mortes; proteção
+contra vírus pode estar subestimada
+
+12.jul.2020 às 23h14
+
+![Wassef se diz diferente dos Bolsonaros e vê falta de bom senso em
+Queiroz](http://web.archive.org/web/20200713103938im_/https://f.i.uol.com.br/fotografia/2020/07/12/15945948755f0b963bd0070_1594594875_3x2_sm.jpg)
+
+Compartilhar
+
+## Wassef se diz diferente dos Bolsonaros e vê falta de bom senso em Queiroz
+
+Advogado afirma que não se arrepende de ter dado abrigo a amigo de Jair e
+Flávio, seus ex-clientes
+
+12.jul.2020 às 23h15
+
+![De olho no STF, Noronha matou no peito e deu passe de letra no caso
+Queiroz](http://web.archive.org/web/20200713103938im_/https://f.i.uol.com.br/fotografia/2020/07/12/15945668385f0b28b6d8bc5_1594566838_3x2_sm.jpg)
+
+Compartilhar
+
+## De olho no STF, Noronha matou no peito e deu passe de letra no caso Queiroz
+
+Presidente do STJ aliviou a tormenta de Bolsonaro em um momento bem delicado
+para o presidente
+
+12.jul.2020 às 23h15
+
+Folha de S.Paulo Assine Topo
+
+####  folha de s.paulo
+
+  * Sobre a Folha 
+  * Acervo Folha 
+  * ClubeFolha 
+  * Expediente 
+  * Política de Privacidade 
+  * Prêmio Folha 
+  * Projeto Editorial 
+  * Seminários Folha 
+  * Trabalhe na Folha 
+  * Vagas em TI 
+  * Treinamento 
+
+####  Fale com a Folha
+
+  * Anuncie (Publicidade Folha) 
+  * Atendimento ao Assinante 
+  * Erramos 
+  * Fale com a Folha 
+  * Ombudsman 
+  * Painel do Leitor 
+
+####  editorias
+
+  * Poder 
+  * Mercado 
+  * Cotidiano 
+  * Mundo 
+  * Esporte 
+  * Ilustrada 
+  * Ilustríssima 
+  * F5 
+  * Saúde 
+  * Ciência 
+  * Fotografia 
+  * TV Folha 
+  * Educação 
+  * Banco de Dados 
+  * Turismo 
+  * Guia Folha 
+  * Sobre Tudo 
+  * Revista sãopaulo 
+
+####  opinião
+
+  * Opinião 
+  * Colunas e Blogs 
+
+####  mais seções
+
+  * Dias Melhores 
+  * Empreendedor Social 
+  * Especiais 
+  * Folha en Español 
+  * Folha In English 
+  * Folhainvest 
+  * Folhaleaks 
+  * Folha Mapas 
+  * Folha Tópicos 
+  * Folha Transparência 
+  * O Melhor de sãopaulo 
+  * Últimas 
+  * Versão Impressa 
+  * Mapa do site 
+
+####  serviços
+
+  * Aeroportos 
+  * Classificados 
+  * Folha Informações 
+  * Horóscopo 
+  * Loterias 
+  * Mortes 
+  * Tempo 
+
+####  outros canais
+
+  * Agora 
+  * e-mailFOLHA 
+  * Datafolha 
+  * Folhapress 
+  * Folha Eventos 
+  * Publifolha 
+  * Top of Mind 
+
+#### Audiência da Folha
+
+Páginas vistas |  266.747.984  Total de páginas visualizadas no site da Folha
+em junho de 2020, segundo o Google Analytics Informação jun.2020  
+---|---  
+Visitantes únicos |  44.825.539  Total de visitantes diferentes do site da
+Folha em junho de 2020, segundo o Google Analytics Informação jun.2020  
+  
+####  CANAIS DA FOLHA
+
+  * Fale com a Redação 
+  * Mapa do site 
+
+#### newsletter
+
+  * Link externo, abre página da Folha de S.Paulo no Twitter
+  * Link externo, abre página da Folha de S.Paulo no Linkedin
+  * Link externo, abre página da Folha de S.Paulo no Instagram
+  * Link externo, abre página RSS da Folha de S.Paulo
+
+#### A Folha integra o
+
+Copyright Folha de S.Paulo. Todos os direitos reservados. É proibida a
+reprodução do conteúdo desta página em qualquer meio de comunicação,
+eletrônico ou impresso, sem autorização escrita da Folhapress.
+
+NEWSLETTER
+
+Ícone alerta Por favor, selecione uma das opções abaixo.  Quais newsletters
+você gostaria de assinar?
+
+Notícias do dia
+
+Colunas e Blogs*
+
+Dicas do Editor*
+
+Folha Med*
+
+Folha Jus*
+
+Brasília Hoje*
+
+F5
+
+Pra curtir SP
+
+Lá fora
+
+Folha na sala*
+
+News in English
+
+Noticias en Español
+
+*exclusivo para assinantes
+
+Você também gostaria de:
+
+Receber informações sobre produtos e serviços da Folha de S. Paulo
+
+Receber ofertas de parceiros da Folha de S. Paulo
+
+Cancelar Confirmar
+
+Cadastro realizado com sucesso!
+
+Ok
+
+Por favor, tente mais tarde!
+
+Ok
+

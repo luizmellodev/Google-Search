@@ -1,0 +1,1440 @@
+![Wayback Machine](/_static/images/toolbar/wayback-toolbar-logo.png)
+
+success
+
+fail
+
+|  | **Jun** | JUL | Aug  
+---|---|---  
+![Previous capture](/_static/images/toolbar/wm_tb_prv_on.png) | 13 | ![Next
+capture](/_static/images/toolbar/wm_tb_nxt_off.png)  
+**2019** | 2020 | 2021  
+  
+|  
+  
+About this capture
+
+COLLECTED BY
+
+Collection: Live Web Proxy Crawls
+
+Content crawled via the Wayback Machine Live Proxy mostly by the Save Page Now
+feature on web.archive.org.  
+  
+Liveweb proxy is a component of Internet Archive’s wayback machine project.
+The liveweb proxy captures the content of a web page in real time, archives it
+into a ARC or WARC file and returns the ARC/WARC record back to the wayback
+machine to process. The recorded ARC/WARC file becomes part of the wayback
+machine in due course of time.  
+  
+
+TIMESTAMPS
+
+![loading](/_static/images/loading.gif)
+
+Abrir sidebar menu Menu Assine
+
+#
+
+Desde 1921 um jornal a serviço do Brasil
+
+  * Ir para o conteúdo [1]
+  * Ir para o menu [2]
+  * Ir para o rodapé [3]
+
+Entrar Buscar
+
+  * últimas
+  * opinião
+  * coronavírus
+  * poder
+  * economia
+  * mundo
+  * cotidiano
+  * esporte
+  * cultura
+  * podcasts
+  * F5
+
+  * Edição Impressa
+  * United States of America flag ENG
+  * ESP
+
+Busca
+
+Buscar no sites da Folha de S.Paulo
+
+Buscar
+
+Apoie a democracia.
+
+Assine a Folha
+
+Oferta especial apenas R$ 1,90 no primeiro mês
+
+tempo real
+
+###  __ Acompanhe as últimas notícias sobre o coronavírus
+
+Assine
+
+Fechar sidebar menu
+
+  *     * Editar perfil 
+    * Senha e conta 
+    * Newsletter 
+    * Assinatura 
+    * Sair
+
+  * Edição Impressa 
+  * Últimas 
+
+  * opinião 
+
+    * Editoriais
+    * Charges
+    * Tendências/Debates
+  * colunas e blogs 
+
+    * Colunas
+    * Blogs
+    * Rotativas
+  * mais populares 
+
+    * Mais lidas
+    * Mais enviadas
+    * Mais comentadas
+  * agora
+  * acervo folha 
+
+    * Há 50 Anos
+    * Saiu no NP
+  * fotografia
+  * folha 100 anos
+
+  * coronavírus 
+
+    *   * governo bolsonaro 
+
+    * Folha Informações
+    * Painel
+  * poder 
+
+    * Governo Bolsonaro
+    * painel
+    * Entrevista da 2ª
+    * lava jato
+    * DeltaFolha
+  * mercado 
+
+    * previdência
+    * Calculadoras da Previdência
+    * folhainvest
+    * painel s.a.
+    * cifras &
+    * mpme
+    * imposto de renda
+    * Recall
+    * Publicidade Legal
+  * cotidiano 
+
+    * educação
+    * ao seu tempo
+    * Folha Verão
+    * febre amarela
+    * rio de janeiro
+    * loterias
+    * tempo
+    * Dias Melhores
+  * mundo 
+
+    * coreia do norte
+    * governo trump
+    * venezuela
+    * portugal
+  * esporte 
+
+    * esporte
+    * campeonato brasileiro
+    * Futebol Internacional
+  * ilustrada 
+
+    * mônica bergamo
+    * quadrinhos
+    * painel das letras
+    * Escuta Aqui
+    * É coisa fina
+  * ilustríssima
+  * F5 
+
+    * Bichos
+    * celebridades
+    * horóscopo
+    * você viu? 
+    * televisão
+  * guia folha
+  * ciência 
+
+    * Ambiente
+  * saúde 
+
+    * Saúde responde
+    * cannabis medicinal
+  * turismo
+  * folhinha
+  * especiais
+  * dias melhores
+  * Seminários Folha
+  * empreendedor social 
+
+    * FIIS
+  * o melhor de sãopaulo
+  * tv folha 
+
+    * tv folha 
+  * parceiros 
+
+    * Agência Fapesp
+    * BBC News Brasil 
+    * Caixin
+    * Deutsche Welle
+    * Financial Times
+    * Global Media
+    * Latino América 21
+    * Piauí
+    * Quatro Cinco Um
+    * Radio France Internationale
+    * The New York Times 
+    * The Wall Street Journal
+    * Telepadi
+    * Origem Surf
+  * banco de dados
+  * painel do leitor
+  * sobre tudo 
+
+    * carreiras
+    * morar
+    * rodas
+    * vida prática
+
+  * mais seções 
+
+    * folha en español
+    * folha in english
+    * Folha Mapas
+    * folhaleaks
+    * tudo sobre
+    * folha tópicos
+    * folha transparência
+    * versão impressa
+    * Mapa do site
+  * classificados
+
+  * fale com a folha 
+
+    * Canais para o leitor
+    * anuncie (publicidade folha)
+    * atendimento ao assinante
+    * erramos
+    * ombudsman
+    * painel do leitor
+
+  * Sobre a Folha 
+
+    * sobre o grupo folha
+    * expediente
+    * política de privacidade
+    * projeto editorial
+    * treinamento
+    * trabalhe na folha
+
+###### Contraste
+
+Claro
+
+Escuro
+
+#### Edições
+
+  * United States of America flag ENG
+  * ESP
+
+#### Siga a folha
+
+  * Link externo, abre página da Folha de S.Paulo no Twitter
+  * Link externo, abre página da Folha de S.Paulo no Linkedin
+  * Link externo, abre página da Folha de S.Paulo no Instagram
+  * Link externo, abre página RSS da Folha de S.Paulo
+
+###  Coronavírus
+
+Compartilhar Coronavírus: Curva da Covid-19 sugere imunidade maior e segunda
+onda menos provável
+
+Ícone fechar
+
+## Curva da Covid-19 sugere imunidade maior e segunda onda menos provável
+
+Áreas mais afetadas e reabertas tem queda sustentada de mortes; proteçao
+contra virus pode estar subestimada
+
+  * ## Campanha incentiva o uso de oxímetros em tratamento precoce para Covid
+
+  * Nabil Bonduki 
+
+## Os despejados da quarentena são esquecidos por Bolsonaro e Bruno Covas
+
+  * Tabata Amaral 
+
+## É necessário falar com bolsonaristas
+
+  * Marcelo Leite 
+
+## Floresta destruída pode ocultar cura
+
+  * ## Nos EUA, homem achava que Covid-19 era mentira, vai a 'festa do corona' e morre
+
+  * ## Bogotá segue outras capitais latino-americanas e retoma quarentena rígida
+
+###  'anjo'
+
+Compartilhar 'anjo': Wassef se diz diferente dos Bolsonaros e vê falta de bom
+senso em Queiroz
+
+Ícone fechar
+
+##  Wassef se diz diferente dos Bolsonaros e vê falta de bom senso em Queiroz
+
+  * Leandro Colon  Noronha matou no peito e deu passe de letra no caso Queiroz
+
+  * Claudia Tajes  A sorte do Queiroz foi nunca roubar xampu
+
+###  Economia
+
+Compartilhar Economia: Auxílio é insuficiente para manter trabalhador em casa,
+mostra pesquisa
+
+Ícone fechar
+
+##  Auxílio é insuficiente para manter trabalhador em casa, mostra pesquisa
+
+  * Restaurantes estudam ações contra bancos por falta de empréstimos
+
+###  Análise
+
+Compartilhar Análise: Compartilhar dados da Lava Jato pode ferir investigações
+
+Ícone fechar
+
+##  Compartilhar dados da Lava Jato pode ferir investigações
+
+  * ![https://f.i.uol.com.br/fotografia/2020/07/12/15945957265f0b998e23c8c_1594595726_3x2_th.jpg](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/12/15945957265f0b998e23c8c_1594595726_3x2_sm.jpg)
+
+  * ![https://f.i.uol.com.br/fotografia/2020/07/12/15945825985f0b664612397_1594582598_3x2_th.jpg](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/12/15945825985f0b664612397_1594582598_3x2_sm.jpg)
+
+  * ![https://f.i.uol.com.br/fotografia/2020/07/12/15946016165f0bb090bd1cf_1594601616_3x2_th.jpg](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/12/15946016165f0bb090bd1cf_1594601616_3x2_sm.jpg)
+
+  * ### Pandemia muda festa centenária japonesa
+
+Tradicional cerimônia das velas, o Shokonsai, realizada em Álvares Machado
+(SP), sofre restrições para proteger turistas - Estevão Salomão/Folhapress
+
+  * ### Lazer
+
+Parques em São Paulo voltam a abrir hoje, com restrições e limite de público -
+Ronny Santos/ Folhapress
+
+  * ### porto de San Diego
+
+Incêndio em navio da Marinha dos Estados Unidos deixa 21 pessoas feridas -
+Sean M. Haffe/AFP
+
+parar
+
+![Policial pisa no pescoço de mulher negra e arrasta a
+vítima](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/13/15946148235f0be427d2758_1594614823_3x2_sm.jpg)
+
+###  violência policial
+
+Compartilhar violência policial: Policial pisa no pescoço e arrasta mulher
+negra na zona sul de São Paulo
+
+Ícone fechar
+
+##  Policial pisa no pescoço e arrasta mulher negra na zona sul de São Paulo
+
+Comerciante foi ferida no rosto, nas costas e teve uma perna quebrada
+
+###  Entrevista da 2ª
+
+Compartilhar Entrevista da 2ª: Movimento negro precisa rumar para nova
+abolição, diz ativista
+
+Ícone fechar
+
+##  Movimento negro precisa rumar para nova abolição, diz ativista
+
+Oswaldo de Camargo, 84, tera tres livros relançados pela Companhia das Letras
+
+![BRASILIA, DF,  BRASIL,  30-06-2020, 16h00: O presidente Jair Bolsonaro,
+acompanhado da primeira Dama MIchelle Bolsonaro, do vice presidente Hamilton
+Mourão e dos presidentes da câmara e do senado, deputado Rodrigo Maia \(DEM-
+RJ\) e senador Davi Alcolumbre \(DEM-AP\), durante solenidade de anúncio da
+prorrogação do programa de Auxílio Emergencial, no Palácio do Planalto.
+\(Foto: Pedro Ladeira/Folhapress,
+PODER\)](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/08/15942139605f05c64881fc5_1594213960_3x2_sm.jpg)
+
+###  constituição proíbe
+
+Compartilhar constituição proíbe: Alcolumbre busca reeleição, e senadores
+cobram fatura por aproximação com o governo
+
+Ícone fechar
+
+##  Alcolumbre busca reeleição, e senadores cobram fatura por aproximação com
+o governo
+
+Presidente do Senado atua como bombeiro de recentes crises para obter apoio
+
+###  nas capitais
+
+Compartilhar nas capitais : Eleição municipal terá esquerda dividida e
+bolsonaristas isolados
+
+Ícone fechar
+
+##  Eleição municipal terá esquerda dividida e bolsonaristas isolados
+
+  * Candidato à reeleição em Belo Horizinte, Kalil acumula dívida 
+
+###  Utilidade Pública
+
+Compartilhar Utilidade Pública: Faceshield só vale se estiver acompanhado por
+máscaras
+
+Ícone fechar
+
+##  Faceshield só vale se estiver acompanhado por máscaras
+
+  * Tire suas dúvidas sobre a Covid-19
+
+  * O que muda para o trabalhador
+
+  * 10 dúvidas sobre auxílio emergencial
+
+  * Siga evolução do coronavírus em SP
+
+  * Compare a Covid com mais epidemias
+
+  * Adesão à quarentena nos estados
+
+  * Quem é mais atingido no Brasil?
+
+  * Compare as mortes em cada estado
+
+  * Veja evolução de casos no mundo
+
+###  Folha Informações
+
+Compartilhar Folha Informações: África não controlou pandemia com ivermectina
+
+Ícone fechar
+
+##  África não controlou pandemia com ivermectina
+
+Medicos distorcem dados em videos no YouTube; Marinha nao aprovou protocolo
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/folha/folha90anos/images/2004211.png)
+
+##
+
+###  o que foi a ditadura
+
+###  Regime
+
+Compartilhar Regime: Ditadura militar criou miragem de separação de Poderes
+
+Ícone fechar
+
+##  Ditadura militar criou miragem de separação de Poderes
+
+  * Curso gratuito sobre ditadura já teve 83 mil visualizações; inscreva-se
+
+###
+
+![Gislene Santos dá aula particular na casa de 5 crianças durante a
+pandemia](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/12/15946035545f0bb82227ff7_1594603554_3x2_sm.jpg)
+
+###  Educação
+
+Compartilhar Educação: Professores de educação infantil dão aulas em casa
+
+Ícone fechar
+
+##  Professores de educação infantil dão aulas em casa
+
+Mesmo com ensino remoto nas escolas, pais recorrem a professores para ensinar
+crianças
+
+![13.07 Nos Prédios -
+Portarias](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/10/15944342265f0922b2429aa_1594434226_3x2_sm.jpg)
+
+###  Profissionais
+
+Compartilhar Profissionais: Porteiros são essenciais para o combate à Covid-19
+
+Ícone fechar
+
+##  Porteiros são essenciais para o combate à Covid-19
+
+![Terceira temporada da série
+Westworld](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/03/16/15843289205e6ef0d88ee45_1584328920_3x2_sm.jpg)
+
+###  Leitor em casa
+
+Compartilhar Leitor em casa: Leitor sugere 'Westworld' e filme com Adam
+Sandler
+
+Ícone fechar
+
+##  Leitor sugere 'Westworld' e filme com Adam Sandler
+
+  * ## O que você indica para ver, ouvir ou assistir? Conte para a Folha
+
+###  informe-se
+
+Compartilhar informe-se: Profissionais da saúde têm assinatura digital grátis
+da Folha e newsletter semanal
+
+Ícone fechar
+
+##  Profissionais da saúde têm assinatura digital grátis da Folha e newsletter
+semanal
+
+  * FolhaJus oferece assinatura gratuita e newsletter jurídica a advogados 
+
+  * Folha libera acesso a textos com serviços sobre coronavírus
+
+  * Site da Folha faz 25 anos
+
+###  como fazer?
+
+![São Paulo, SP, Brasil, 21-02-2019: Cédulas de real. Papel Moeda. Dinheiro.
+\(foto Gabriel
+Cabral/Folhapress\)](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2019/03/21/15531762555c9396bf079ea_1553176255_3x2_sm.jpg)
+
+###  Documento
+
+Compartilhar Documento: Como enviar a declaração retificadora do IR
+
+Ícone fechar
+
+##  Como enviar a declaração retificadora do IR
+
+![Beautiful plus size girl training at home. Concept of body
+positivity](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/06/22/15928564185ef10f629c0d4_1592856418_3x2_sm.jpg)
+
+###  linha de chegada
+
+Compartilhar linha de chegada: Saiba diminuir perda de condicionamento físico
+em casa
+
+Ícone fechar
+
+##  Saiba diminuir perda de condicionamento físico em casa
+
+![SAO PAULO, SP, BRASIL. 06.07.2020 - COVID 19 - Laryssa Alarcon.   Especial
+sobre como as mulheres estão se cuidando em tempos de quarentena. \(foto:
+Rubens Cavallari/Folhapress,
+SHOW\)](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/09/15943281735f07846d5ac65_1594328173_3x2_sm.jpg)
+
+###  Spa
+
+Compartilhar Spa: Contra ressecamento e lesões, cuide da pele em casa
+
+Ícone fechar
+
+##  Contra ressecamento e lesões, cuide da pele em casa
+
+![ORG XMIT: 522101_1.tif 16.02.2005 - Construcao - Foto:Ayrton
+Vignola/Folhapress - PAUTA: Pessoas que contratam empresas especializadas em
+limpeza para fazer faxina e deixar tudo limpo em suas casas. Fotos de Fabiana
+Carnilli, 29, Auxiliar de Limpeza da Empresa especializada em Limpeza, Jani-
+King, limpando Apartamento.
+DIGITAL](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2019/09/11/15682396805d79704025e8b_1568239680_3x2_sm.jpg)
+
+###  Web Stories
+
+Compartilhar Web Stories: Como envolver os filhos nas tarefas domésticas
+
+Ícone fechar
+
+##  Como envolver os filhos nas tarefas domésticas
+
+###
+
+#####  colunas e blogs
+
+Ver tudo
+
+Anterior Próximo
+
+Carregando...
+
+###  Folhainvest
+
+Compartilhar Folhainvest: Para enfrentar crise, empresas fazem novas ofertas
+de ações
+
+Ícone fechar
+
+##  Para enfrentar crise, empresas fazem novas ofertas de ações
+
+  * Algoritmos assumem protagonismo na seleção de aplicações financeiras
+
+###  após Covid-19
+
+Compartilhar após Covid-19: Brasil terá que moderar ambição nos leilões de
+infraestrutura
+
+Ícone fechar
+
+##  Brasil terá que moderar ambição nos leilões de infraestrutura
+
+Com a extensao da crise, concessionarias de rodovias estao querendo respostas
+rapidas
+
+###  acima do teto
+
+Compartilhar acima do teto: Mais de 8.000 juízes receberam acima de R$ 100 mil
+mensais ao menos uma vez desde 2017
+
+Ícone fechar
+
+##  Mais de 8.000 juízes receberam acima de R$ 100 mil mensais ao menos uma
+vez desde 2017
+
+Teto constitucional e de R$ 39,3 mil
+
+###  seminário #ComoPossoAjudar
+
+Compartilhar seminário #ComoPossoAjudar: Empreendedorismo, transparência e
+simplicidade ajudam cultura de doação
+
+Ícone fechar
+
+##  Empreendedorismo, transparência e simplicidade ajudam cultura de doação
+
+  * Cresce confiança em ONGs no país
+
+![Polish President and presidential candidate of the Law and Justice \(PiS\)
+party Andrzej Duda speaks next to his?wife?Agata Kornhauser-Duda and their
+daughter Kinga Duda after the announcement of the first exit poll results on
+the second round of the presidential election in Pultusk, Poland, July 12,
+2020. REUTERS/Kacper Pempel ORG XMIT:
+GDN](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/12/15945860525f0b73c4b470f_1594586052_5x2_sm.jpg)
+
+###  reformas nacionalistas
+
+Compartilhar reformas nacionalistas: Presidente é reeleito na Polônia e
+fortalece política conservadora
+
+Ícone fechar
+
+##  Presidente é reeleito na Polônia e fortalece política conservadora
+
+![Wisley Falco Sales, 55, vítima de
+coronavírus](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/13/15946429325f0c51f4ad081_1594642932_5x2_sm.jpg)
+
+###  Vítimas da Covid-19
+
+Compartilhar Vítimas da Covid-19: Professor era dedicado e via a profissão
+como a mais bonita
+
+Ícone fechar
+
+##  Professor era dedicado e via a profissão como a mais bonita
+
+  * Conheça histórias de brasileiros que morreram com coronavírus
+
+  * Brasil chega a 72 mil mortos 
+
+![SAO PAULO -  SP - 07.07.2020 - a professora Luciana Migliaccio, 47, que tem
+o curso
+](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/10/15944143015f08d4dd9c40a_1594414301_3x2_sm.jpg)
+
+###  Mpme
+
+Compartilhar Mpme: Professores que têm seus próprios cursos ensinam a
+empreender
+
+Ícone fechar
+
+##  Professores que têm seus próprios cursos ensinam a empreender
+
+Crise leva a aumento no numero de docentes que buscam trabalhar por conta
+propria
+
+  * Cinco lições que os empreendedores podem tirar da crise
+
+![SAO PAULO/SP, BRASIL- 09.07.2020 - Fumantes na regiao do Largo Sao Bento, no
+centro da capital.. A Câmara dos vereadores aprovou projeto de lei que multa
+em R$ 500 quem jogar bituca de cigarro no chão. Coronavirus, COVID-19.\(Foto:
+Zanone Fraissat/Folhapress.
+COTIDIANO**EXCLUSIVO***.](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/12/15946000175f0baa51bc6a0_1594600017_3x2_sm.jpg)
+
+###  Painel S.A.
+
+Compartilhar Painel S.A.: Um dos principais remédios para parar de fumar sofre
+desabastecimento na pandemia
+
+Ícone fechar
+
+##  Um dos principais remédios para parar de fumar sofre desabastecimento na
+pandemia
+
+Pfizer, fabricante do Champix, preve normalizaçao apenas em julho de 2021
+
+![BRASILIA , DF , 06.05.2020 , BRASIL ,Presidente da Republica Jair Bolsonaro
+durante reunião com o Ministro de Estado do Turismo, Marcelo Álvaro Antônio e
+Regina Duarte, Secretária Especial da Cultura do Ministério da Cidadania.Foto:
+Isac Nóbrega / PR ORG XMIT:
+AGEN2005061724533590](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/05/06/15888049435eb33d4f13665_1588804943_3x2_sm.jpg)
+
+###  Mônica Bergamo
+
+Compartilhar Mônica Bergamo: Regina Duarte apaga menção à sua gestão na
+Cultura em perfil em rede social
+
+Ícone fechar
+
+##  Regina Duarte apaga menção à sua gestão na Cultura em perfil em rede
+social
+
+  * Sindicato de artistas tenta reunião com governo sobre retomada 
+
+##  editoriais o que a folha pensa
+
+##  Delonga tributária
+
+Atraso de Guedes na definiçao de reforma tumultua debate e alimenta incertezas
+
+##  Abuso judicial
+
+Ao falar em abuso de poder religioso, Fachin poe em jogo liberdade de credo
+
+###  dias melhores
+
+![O empresário Ronaldo Chiesi ficou 41 dias na UTI do Hospital Oswaldo Cruz e
+conseguiu se recuperar da Covid-19 Crédito: Olivia Chiesi/Arquivo
+pessoal](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/03/15938267915effdde7b515c_1593826791_3x2_sm.jpg)
+
+###  Venci o corona
+
+Compartilhar Venci o corona: Empresário se recupera da Covid após 41 dias de
+UTI
+
+Ícone fechar
+
+##  Empresário se recupera da Covid após 41 dias de UTI
+
+![RIO DE JANEIRO,RJ - 02/07/2020 - Depois de 23 dias internado pela Covid-19,
+Alan Boggiss, que tem síndrome de Down, recebeu alta nesta quinta-feira \(2\)
+do Hospital Pró-Cardíaco no Rio de Janeiro. \(Foto: Hospital Pró-Cardíaco /
+Divulgacao\)](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/11/15944876395f09f357af738_1594487639_3x2_sm.jpg)
+
+###  Após 23 dias
+
+Compartilhar Após 23 dias: Paciente com Down se cura da Covid e recebe alta no
+Rio
+
+Ícone fechar
+
+##  Paciente com Down se cura da Covid e recebe alta no Rio
+
+![SAO PAULO, SAO PAULO, BRASIL, 08-09-2016: Organizadora Ana Paula Vanzan dar
+dicas de como guardar os cobertores da forma mais adequada. \(Foto: Avener
+Prado/Folhapress, SOBRE TUDO\) Código do Fotógrafo: 20516 ***EXCLUSIVO
+FOLHA***](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2018/07/20/15321174515b5241cb57cd0_1532117451_3x2_sm.jpg)
+
+###  em SP
+
+Compartilhar em SP: Campanha arrecada recursos para cobertores
+
+Ícone fechar
+
+##  Campanha arrecada recursos para cobertores
+
+![Na cozinha do restaurante Jamile, cinco pessoas trabalham diariamente para
+produzir 300 marmitas para moradores de
+rua](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/04/17/15871595955e9a222b2b197_1587159595_3x2_sm.jpg)
+
+###  solidariedade
+
+Compartilhar solidariedade: Aumenta a demanda por doações; saiba como ajudar
+
+Ícone fechar
+
+##  Aumenta a demanda por doações; saiba como ajudar
+
+###
+
+##  Mais lidas
+
+Ver todas
+
+  1. Curva da Covid sugere imunidade maior e segunda onda menos provável 
+  2. Wassef se diz diferente dos Bolsonaros e vê falta de bom senso em Queiroz 
+  3. Campanha incentiva o uso de oxímetros em tratamento precoce para Covid 
+  4. Mais de 8.000 juízes receberam acima de R$ 100 mil mensais ao menos uma vez desde 2017 
+  5. Policial pisa no pescoço de mulher negra e arrasta a vítima na zona sul de SP 
+
+###  podcasts
+
+![Podcast da Folha
+](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2019/07/10/15627565805d25c5e4a81a9_1562756580_3x2_sm.jpg)
+
+###  café da manhã
+
+Compartilhar café da manhã: Quais os desafios do transporte público na
+reabertura?
+
+Ícone fechar
+
+##  Quais os desafios do transporte público na reabertura?
+
+![Podcast semanal da Folha trata de
+gestação](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2019/10/01/15699586055d93aacda929b_1569958605_3x2_sm.jpg)
+
+###  40 semanas
+
+Compartilhar 40 semanas: Temida, indução de parto é opção para evitar cesárea
+
+Ícone fechar
+
+##  Temida, indução de parto é opção para evitar cesárea
+
+![Capa do podcast Folha na
+Sala](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2019/09/17/15687538715d8148cf988f1_1568753871_3x2_sm.jpg)
+
+###  Folha na Sala
+
+Compartilhar Folha na Sala: A história do professor negro e antirracista
+
+Ícone fechar
+
+##  A história do professor negro e antirracista
+
+![Logo Podcast Expresso
+Ilustrada](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2019/05/10/15575089715cd5b36b1f427_1557508971_3x2_sm.jpg)
+
+###  Expresso Ilustrada
+
+Compartilhar Expresso Ilustrada: Como a morte esteve presente na música de
+Cazuza
+
+Ícone fechar
+
+##  Como a morte esteve presente na música de Cazuza
+
+###
+
+###  Opinião
+
+Compartilhar Opinião: Novo modelo de renda básica exige superar armadilhas do
+passado, dizem especialistas
+
+Ícone fechar
+
+##  Novo modelo de renda básica exige superar armadilhas do passado, dizem
+especialistas
+
+Programa mais abrangente que o Bolsa Familia pode substituir auxilio
+emergencial
+
+  * Leia textos sobre coronavírus publicados na Ilustríssima
+
+  * Carlo Ginzburg  Bolsonaro envergonha país como Berlusconi, diz italiano
+
+  * Angela Alonso  Nenhum absurdo balança terço fiel a Bolsonaro
+
+###  Futebol Internacional
+
+Compartilhar Futebol Internacional: Manchester City tem pena revertida e
+poderá disputar Champions League
+
+Ícone fechar
+
+##  Manchester City tem pena revertida e poderá disputar Champions League
+
+Corte Arbitral do Esporte anula suspensao de dois anos imposta pela Uefa ao
+clube
+
+![Treino da equipe do Elosport que se prepara para a volta do
+futebol](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/09/15943408335f07b5e1ba2e1_1594340833_3x2_sm.jpg)
+
+###  Futebol Paulista
+
+Compartilhar Futebol Paulista: Pior time de SP vê tentativa de recomeço
+atropelada pela pandemia
+
+Ícone fechar
+
+##  Pior time de SP vê tentativa de recomeço atropelada pela pandemia
+
+Elosport perdeu todas na 4ª divisao em 2019 e ja coleciona percalços em 2020
+
+![Renato Gaúcho na praia de Ipanema, Rio de
+Janeiro](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/13/15946362375f0c37cdb42c8_1594636237_3x2_sm.jpg)
+
+###  Ex-jogador
+
+Compartilhar Ex-jogador: Sem máscara, Renato Gaúcho é parado por guarda em
+Ipanema
+
+Ícone fechar
+
+##  Sem máscara, Renato Gaúcho é parado por guarda em Ipanema
+
+###  Recuperação
+
+Compartilhar Recuperação: Ex-número 1 no tênis, Rogerinho 'volta ao início' da
+carreira
+
+Ícone fechar
+
+##  Ex-número 1 no tênis, Rogerinho 'volta ao início' da carreira
+
+![1989: Voyager em
+Netuno](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/13/15946296735f0c1e2925e9a_1594629673_3x2_sm.jpg)
+
+###  Mensageiro Sideral
+
+Compartilhar Mensageiro Sideral: A ciência aprende mesmo quando erra
+
+Ícone fechar
+
+##  A ciência aprende mesmo quando erra
+
+###  maratona
+
+Compartilhar maratona: Leia críticas de filmes e séries para assistir na
+quarentena
+
+Ícone fechar
+
+##  Leia críticas de filmes e séries para assistir na quarentena
+
+### Tempo
+
+São Paulo
+
+Tempo
+
+VER TODAS
+
+  * __
+  * máx
+  * mín
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018826.jpeg)
+
+**Pacientes do SUS lutam por inclusão de terapias mais eficientes contra
+melanoma**
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018825.jpeg)
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018144.jpeg)
+
+**Novos hábitos fazem entregas de ecommerce crescerem 70%**
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018143.png)
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018133.jpeg)
+
+**Além do trabalho duro, mineira ainda ajuda sua comunidade**
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018137.jpeg)
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018134.jpeg)
+
+**Estudante de psicologia oferece apoio a quem precisa**
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018130.png)
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018136.jpeg)
+
+**Médico toma medidas para proteger funcionários e clientes**
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018131.png)
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018135.jpeg)
+
+**Simpatia ao levar e trazer profissionais da saúde**
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2018132.png)
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2017118.jpeg)
+
+**Cápsula de baixo custo salva médicos e pacientes de Covid-19**
+
+![](http://web.archive.org/web/20200713125917im_/http://f.i.uol.com.br/estudiofolha/images/2017116.png)
+
+parar
+
+###  fique em casa
+
+![Marcelo D2 e B Negão em show do Planet Hemp, no festival Forró da Lua Cheia,
+em Altinópolis
+\(SP\)](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2019/06/27/15616362795d14adb751c52_1561636279_3x2_sm.jpg)
+
+###  Veja setlist
+
+Compartilhar Veja setlist: Planet Hemp e Raimundos fazem live no Dia do Rock
+
+Ícone fechar
+
+##  Planet Hemp e Raimundos fazem live no Dia do Rock
+
+![Cena da animação
+](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/02/15937023085efdf7a42c8c0_1593702308_3x2_sm.jpg)
+
+###  prepare a pipoca
+
+Compartilhar prepare a pipoca: Mostra online exibe animações nacionais
+
+Ícone fechar
+
+##  Mostra online exibe animações nacionais
+
+![Mandou
+Bem](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/08/15942374445f0622047a353_1594237444_3x2_sm.jpg)
+
+###  para desanuviar
+
+Compartilhar para desanuviar: Descubra seis programas de culinária diferentões
+
+Ícone fechar
+
+##  Descubra seis programas de culinária diferentões
+
+![Mestre do sabor 2a Temporada 2020 - Claude
+Troisgros](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/06/23/15929210765ef20bf500098_1592921076_3x2_sm.jpg)
+
+###  Hoje
+
+Compartilhar Hoje: Crítico promove jantar live com chef Claude Troisgros
+
+Ícone fechar
+
+##  Crítico promove jantar live com chef Claude Troisgros
+
+###
+
+![Assine a Folha
+Universitarios](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2018/01/31/15174088355a71d243e7c25_1517408835_5x2_sm.jpg)
+
+##  tendências / debates
+
+###  MÁRCIA MONTE
+
+Compartilhar MÁRCIA MONTE: Depois de 30 anos, ECA ainda não é para todas as
+crianças e adolescentes
+
+Ícone fechar
+
+##  Depois de 30 anos, ECA ainda não é para todas as crianças e adolescentes
+
+Conquistas ainda nao atingem jovens negros, pobres e de periferias
+
+###  ADRIANO NAVES DE BRITO
+
+Compartilhar ADRIANO NAVES DE BRITO: Para um novo Fundeb, o tempo não é agora
+
+Ícone fechar
+
+##  Para um novo Fundeb, o tempo não é agora
+
+O mais sensato a fazer e prorrogar a lei atual por mais quatro anos
+
+##  painel do leitor
+
+##  Perversidade de Bolsonaro atingiu níveis incalculáveis, diz leitor
+
+FALE COM A FOLHA
+
+  * 14/7  'Assunto de Família', de Hirokazu Koreeda, ganha debate online
+
+  * 19/7  Inscrições para oficina sobre mobilidade urbana para jornalistas
+
+  * economia
+  * cultura
+  * ilustríssima
+
+Carregando...
+
+Carregando...
+
+Carregando...
+
+## Newsletter
+
+  * Notícias do dia
+  * Colunas e Blogs*
+  * Dicas do Editor*
+  * Folha Med*
+  * Folha Jus*
+  * Brasília Hoje*
+  * *exclusivo para assinantes
+  * Para curtir SP
+  * Lá fora
+  * Folha na sala*
+  * In English
+  * En Español
+  * F5
+
+![FILE PHOTO: 71st Cannes Film Festival - Photocall for the film Gotti -
+Cannes, France, May 15, 2018. Cast member Kelly Preston. REUTERS/Regis
+Duvignau/File Photo ORG XMIT:
+OBIT](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/13/15946363975f0c386dc4780_1594636397_3x4_sm.jpg)
+
+###  memória
+
+Compartilhar memória: Atriz Kelly Preston morre de câncer aos 57 anos
+
+Ícone fechar
+
+##  Atriz Kelly Preston morre de câncer aos 57 anos
+
+Anuncio foi feito pelo marido, John Travolta
+
+![Garoto cria abaixo assinado com Raul Seixas, Neymar e Cinderela e convence
+mãe e adotar
+cachorro](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/13/15946416345f0c4ce278fb2_1594641634_5x2_sm.jpg)
+
+###  Bom pra Cachorro
+
+Compartilhar Bom pra Cachorro: Garoto cria abaixo assinado com Raul Seixas e
+Neymar e convence mãe e adotar cachorro
+
+Ícone fechar
+
+##  Garoto cria abaixo assinado com Raul Seixas e Neymar e convence mãe e
+adotar cachorro
+
+![Cinema: o ator Danny Trejo, em cena do filme
+](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/13/15946302615f0c207552b85_1594630261_5x2_sm.jpg)
+
+###  Da prisão a Hollywood
+
+Compartilhar Da prisão a Hollywood: A incrível história de Danny Trejo, o ator
+que ganha a vida morrendo na tela
+
+Ícone fechar
+
+##  A incrível história de Danny Trejo, o ator que ganha a vida morrendo na
+tela
+
+![Em seu estúdio, o OtaLab, Otaviano Costa comenta: No combate ao
+coronavírus, eu sou do Ciência Futebol
+Clube](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/04/20/15874007445e9dd02825e5e_1587400744_3x2_sm.jpg)
+
+###  pós-globo
+
+Compartilhar pós-globo: Otaviano Costa se recicla e estreia programa no UOL
+
+Ícone fechar
+
+##  Otaviano Costa se recicla e estreia programa no UOL
+
+![Jogo 'Assassin's Creed Valhalla', da
+Ubisoft](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/12/15945889795f0b7f33b3fd7_1594588979_3x2_sm.jpg)
+
+###  era viking
+
+Compartilhar era viking: 'Assassin's Creed Valhalla' chega em novembro
+
+Ícone fechar
+
+##  'Assassin's Creed Valhalla' chega em novembro
+
+![Rubens Barrichello assume namoro com Paloma
+Tocci](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/12/15945986935f0ba525ae844_1594598693_3x2_sm.jpg)
+
+###  casal
+
+Compartilhar casal: Barrichello assume namoro com Paloma Tocci
+
+Ícone fechar
+
+##  Barrichello assume namoro com Paloma Tocci
+
+![Data: 09/05/2014 Editoria: Cultura Reporter: Robinson Borges Local: Sao
+Paulo, SP. Pauta: Entrevista com Raul Wassermann, dono da editora SUMMUS.
+Setor: cultura Tags: livros, venda, leitura, publico, mesa, sala, editor,
+publicacao, mercado, tendencias, perspectivas. Personagem: Raul Wassermann,
+dono da editora Summus, fotografado conversando no escritorio. Foto: Ana Paula
+Paiva/Valor ***FOTO DE USO EXCLUSIVO
+FOLHAPRESS***](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/13/15946373835f0c3c47401e1_1594637383_3x2_sm.jpg)
+
+###  Mortes
+
+Compartilhar Mortes: Abriu caminhos com livros e cingiu família rarefeita
+
+Ícone fechar
+
+##  Abriu caminhos com livros e cingiu família rarefeita
+
+# Horóscopo
+
+Horóscopo
+
+__
+
+##  TV Folha
+
+## Medo do coronavírus e perda de renda na quarentena acuam ribeirinhos
+
+##  Fotografia
+
+![](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/13/15946320125f0c274c83ba0_1594632012_3x2_md.jpg)
+
+### Imagens do dia
+
+## Governo do Cazaquistão faz homenagem a vítimas de covid-19; veja fotos de
+hoje
+
+![](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/07/12/15945957265f0b998e23c8c_1594595726_3x2_md.jpg)
+
+### cotidiano
+
+## Pandemia muda festa japonesa no interior de SP
+
+![DCIM\\100GOPRO Sao Paulo SP 28 01 2015   ESPECIAL  Entreda de aguas do Rio
+Pinheiros para a represa Imagens aéreas da represa Billings que está rodeada
+por construções clandestinas e a Sabesp planeja o uso intenso do manancial
+para abastecer São Paulo devido ao baixo nível da Cantareira  Jorge Araujo 703
+folhapress ORG XMIT:
+XXX](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2019/03/21/15532183865c943b523aba8_1553218386_5x2_sm.jpg)
+
+###  Represas
+
+Compartilhar Represas:
+
+Ícone fechar
+
+Acompanhe a situaçao dos reservatorios da Grande Sao Paulo
+
+![\(200319\) -- NUEVA YORK, 18 marzo, 2020 \(Xinhua\) -- Una pantalla
+electrónica muestra información de comercio en el piso de la Bolsa de Valores
+de Nueva York, en Nueva York, Estados Unidos, el 18 de marzo de 2020. Las
+acciones estadounidenses se desplomaron el miércoles en otra sesión volátil y
+el Dow Jones cayó a su mínimo nivel en tres años en medio de la constante
+propagación del coronavirus. El Promedio Industrial Dow Jones perdió 1.338,46
+puntos, o 6,30 por ciento, para terminar en 19.898,92 unidades, marcando su
+primer cierre abajo de 20,000 desde febrero de 2017. El índice de 30 acciones
+cayó más de 2,300 puntos en mínimos de sesión. \(Xinhua/Michael Nagle\) \(eb\)
+\(da\)](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2020/05/11/15892088405eb967084ea74_1589208840_5x2_sm.jpg)
+
+###  Folhainvest
+
+Compartilhar Folhainvest:
+
+Ícone fechar
+
+Acompanhe a movimentaçao do mercado financeiro no liveblog
+
+![Ilustração integrante do especial da Folha Match da
+Saude](http://web.archive.org/web/20200713125917im_/https://f.i.uol.com.br/fotografia/2019/07/24/15639957785d38ae82b8161_1563995778_5x2_sm.jpg)
+
+###  faça o teste
+
+Compartilhar faça o teste:
+
+Ícone fechar
+
+Match da Saude ajuda a avaliar como viver melhor
+
+###  INDICADORES ECONÔMICOS
+
+#### bovespa
+
+0,0% 000 pts
+
+(00h00)
+
+#### dolar com.
+
+0,0% R$ 0,000
+
+(00h00)
+
+#### EURO
+
+0,00 R$ 0,000
+
+(00h00)
+
+Atualizado em xx.xx.xx | Fonte: CMA
+
+Folha de S.Paulo Assine Topo
+
+####  folha de s.paulo
+
+  * Sobre a Folha 
+  * Acervo Folha 
+  * ClubeFolha 
+  * Expediente 
+  * Política de Privacidade 
+  * Prêmio Folha 
+  * Projeto Editorial 
+  * Seminários Folha 
+  * Trabalhe na Folha 
+  * Vagas em TI 
+  * Treinamento 
+
+####  Fale com a Folha
+
+  * Anuncie (Publicidade Folha) 
+  * Atendimento ao Assinante 
+  * Erramos 
+  * Fale com a Folha 
+  * Ombudsman 
+  * Painel do Leitor 
+
+####  editorias
+
+  * Poder 
+  * Mercado 
+  * Cotidiano 
+  * Mundo 
+  * Esporte 
+  * Ilustrada 
+  * Ilustríssima 
+  * F5 
+  * Saúde 
+  * Ciência 
+  * Fotografia 
+  * TV Folha 
+  * Educação 
+  * Banco de Dados 
+  * Turismo 
+  * Guia Folha 
+  * Sobre Tudo 
+  * Revista sãopaulo 
+
+####  opinião
+
+  * Opinião 
+  * Colunas e Blogs 
+
+####  mais seções
+
+  * Dias Melhores 
+  * Empreendedor Social 
+  * Especiais 
+  * Folha en Español 
+  * Folha In English 
+  * Folhainvest 
+  * Folhaleaks 
+  * Folha Mapas 
+  * Folha Tópicos 
+  * Folha Transparência 
+  * O Melhor de sãopaulo 
+  * Últimas 
+  * Versão Impressa 
+  * Mapa do site 
+
+####  serviços
+
+  * Aeroportos 
+  * Classificados 
+  * Folha Informações 
+  * Horóscopo 
+  * Loterias 
+  * Mortes 
+  * Tempo 
+
+####  outros canais
+
+  * Agora 
+  * e-mailFOLHA 
+  * Datafolha 
+  * Folhapress 
+  * Folha Eventos 
+  * Publifolha 
+  * Top of Mind 
+
+#### Audiência da Folha
+
+Páginas vistas |  266.747.984  Total de páginas visualizadas no site da Folha
+em junho de 2020, segundo o Google Analytics Informação jun.2020  
+---|---  
+Visitantes únicos |  44.825.539  Total de visitantes diferentes do site da
+Folha em junho de 2020, segundo o Google Analytics Informação jun.2020  
+  
+####  CANAIS DA FOLHA
+
+  * Fale com a Redação 
+  * Mapa do site 
+
+#### newsletter
+
+  * Link externo, abre página da Folha de S.Paulo no Twitter
+  * Link externo, abre página da Folha de S.Paulo no Linkedin
+  * Link externo, abre página da Folha de S.Paulo no Instagram
+  * Link externo, abre página RSS da Folha de S.Paulo
+
+#### A Folha integra o
+
+Copyright Folha de S.Paulo. Todos os direitos reservados. É proibida a
+reprodução do conteúdo desta página em qualquer meio de comunicação,
+eletrônico ou impresso, sem autorização escrita da Folhapress.
+
+NEWSLETTER
+
+Ícone alerta Por favor, selecione uma das opções abaixo.  Quais newsletters
+você gostaria de assinar?
+
+Notícias do dia
+
+Colunas e Blogs*
+
+Dicas do Editor*
+
+Folha Med*
+
+Folha Jus*
+
+Brasília Hoje*
+
+F5
+
+Pra curtir SP
+
+Lá fora
+
+Folha na sala*
+
+News in English
+
+Noticias en Español
+
+*exclusivo para assinantes
+
+Você também gostaria de:
+
+Receber informações sobre produtos e serviços da Folha de S. Paulo
+
+Receber ofertas de parceiros da Folha de S. Paulo
+
+Cancelar Confirmar
+
+Cadastro realizado com sucesso!
+
+Ok
+
+Por favor, tente mais tarde!
+
+Ok
+

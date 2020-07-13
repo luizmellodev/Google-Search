@@ -1,0 +1,127 @@
+Descrição de chapéu Coronavírus
+#  Curva da Covid sugere imunidade maior e segunda onda menos provável
+##  Áreas mais afetadas e reabertas têm queda sustentada de mortes; proteção
+**Fernando Canzian **
+**São Paulo**
+Em praticamente todas as regiões do mundo mais duramente afetadas pelo novo
+coronavírus e que retomaram as atividades há queda sustentada no número de
+mortes e infecções.
+A tendência é a mesma na Europa e nos estados brasileiros e norte-americanos
+mais contaminados. Nos que vinham sendo poupados, os casos estão subindo,
+elevando a média geral tanto no Brasil quanto nos Estados Unidos.
+Na Europa, onde a epidemia chegou antes, ela está em declínio, apesar de
+muitos países terem voltado a funcionar quase normalmente.
+Nos EUA, cidades mais afetadas e que tiveram ondas de protestos de rua contra
+o racismo após a morte de George Floyd, em 25 de maio, também não tiveram
+novos surtos. Já estados como Califórnia e Texas, alheios à irrupção inicial,
+são os novos focos.
+No Brasil, cidades como São Paulo, Manaus, Rio e Recife, já fortemente
+afetadas, estão reabrindo até agora sem repiques. Mas a epidemia se alastra no
+interior, assim como nas regiões Sul e Centro Oeste, até então poupadas.
+Ingleses voltam aos pubs depois de três meses
+Epidemiologistas e novos estudos sugerem que a chamada imunidade coletiva
+necessária para conter a expansão da Covid-19 pode ter sido superestimada ou
+estar sendo calculada de forma imprecisa.
+Isso explicaria a não ocorrência de uma segunda onda de infecções até agora.
+Mesmo que, nos locais inicialmente mais afetados e reabertos, menos de 20% da
+população tenha desenvolvido anticorpos para o novo coronavírus.
+Há alguns meses, estimava-se que até 70% das pessoas deveriam contrair o vírus
+antes que ele não encontrasse hospedeiros para se propagar.
+O motivo pode ter relação com ao menos dois fatores: 1) Muito mais pessoas
+pegaram o vírus e desenvolveram anticorpos que diminuem com o tempo,
+resultando depois em testes negativos; ou elas se curaram mesmo sem a criação
+de anticorpos; 2) O principal vetor de transmissão do vírus seriam os adultos
+jovens, que circulam mais pelas cidades, sobretudo em transportes coletivos.
+Tome-se o caso de Manaus, considerada por epidemiologistas como um campo de
+provas para a livre evolução da epidemia devido ao baixíssimo isolamento
+social que resultou no colapso dos sistemas de saúde e funerário.
+Segundo a Epicovid19, maior mapeamento do coronavírus do país conduzindo pela
+Universidade Federal de Pelotas, o máximo de prevalência de anticorpos na
+população da capital do Amazonas foi encontrado entre os dias 4 e 7 de junho:
+14,6%.
+Na rodada seguinte de testes, entre 21 e 24 de junho, a pesquisa encontrou só
+8% dos manauaras com anticorpos.
+Junho foi o mês em que os sepultamentos e cremações em Manaus se reaproximaram
+das taxas pré epidemia; e julho vem sendo marcado pela desmobilização de parte
+do aparato para a Covid-19.
+Na cidade de São Paulo, com mais isolamento e menos mortes que Manaus,
+proporcionalmente, o máximo de prevalência de anticorpos encontrada na
+população foi de 3,3%, entre 14 e 21 de maio.
+Mesmo assim, e apesar da reabertura gradual, a capital registra queda
+sustentada de novos casos, a ponto de oferecer leitos a cidades onde a
+epidemia agora avança.
+Segundo imunologistas, é provável que o Sars-CoV-2 possa estar sendo combatido
+em duas frentes: pelos linfócitos (células) B, que produzem anticorpos, na
+resposta imune denominada humoral; e pelos linfócitos T, que não fazem isso,
+mas que também combatem o vírus eliminando células infectadas --nesse caso,
+por resposta citotóxica.
+Como a ação dos linfócitos T não produz anticorpos, muitas pessoas teriam
+defesa contra o vírus sem que a maioria dos testes hoje aplicados (não
+celulares) detecte isso.
+Outro ponto é que os anticorpos produzidos pela ação dos linfócitos B podem
+diminuir com o tempo, mas sem que se perca a imunidade.
+Isso explicaria a redução da prevalência, com o tempo, de anticorpos
+detectados na população nos testes em Manaus e em outras cidades monitoradas
+pela Epicovid19 —e sem que haja novos surtos.
+Para Julio Croda, infectologista da Fiocruz, a imunização contra o coronavírus
+pode estar se dando de forma "cruzada": pela suscetibilidade individual (com
+linfócitos B e T) e por outros fatores genéticos combinados às políticas de
+distanciamento social e o uso de máscaras.
+"Sem o distanciamento e a máscara, o percentual de infectados e mortos na
+população teria de ser muito maior para chegarmos à imunidade comunitária",
+afirma. Por discordar do presidente Jair Bolsonaro na questão do isolamento
+social, Croda deixou a direção do Departamento de Imunizações e Doenças
+Transmissíveis do Ministério da Saúde no final de março.
+Para Natalia Pasternak, doutora em microbiologia pela USP e presidente do
+Instituto Questão de Ciência, o ataque ao vírus pelos dois tipos de linfócitos
+(B e T) e o fato de os anticorpos poderem cair abaixo do detectável, sem
+prejudicar a imunização, tornam difícil aferir o tamanho da população ainda
+suscetível ao vírus.
+"Ela talvez já não seja tão grande, mas não sabemos. O que não podemos é
+tratar isso de forma que dê a impressão de um liberou geral [onde o vírus já
+fez muito estrago]."
+Pasternak afirma que a imunidade total só pode ser obtida com um número muito
+elevado de mortes ou com uma vacina --as principais em elaboração hoje tentam
+emular os dois caminhos (humoral e citotóxico) para a destruição do novo
+coronavírus.
+Para Daniel Soranz, pesquisador da Escola Nacional de Saúde Pública da
+Fiocruz, o número elevado de mortes em algumas cidades do Brasil ajudaria a
+explicar a inexistência de uma segunda onda de infecções, apesar da reabertura
+desses locais.
+"Isso ocorre às custas de muitas mortes. Pois se fossemos desenhar um cenário
+ruim, não poderíamos criar nada pior do que o que vimos em algumas cidades do
+Brasil, sobretudo nas comunidades mais pobres, como as daqui do Rio", afirma
+Soranz.
+Bares e restaurantes reabrem em São Paulo
+Agora, sem nenhuma fila e com cerca de mil pacientes em leitos de UTI no
+Sistema Único de Saúde, em menos de 20 dias a capital fluminense poderá zerar
+as internações —a um ritmo de 50 saídas ao dia, por alta hospitalar ou morte.
+Esper Kallás, infectologista e professor da USP, suspeita que tenham sido
+justamente os moradores das comunidades menos ricas, sobretudo os adultos
+jovens, os maiores responsáveis pela disseminação do coronavírus e da obtenção
+de uma imunidade comunitária maior nas cidades mais afetadas até agora.
+Mesmo que não detectada totalmente nas pesquisas de prevalência imunológica,
+como as da Universidade Federal de Pelotas, essa imunidade maior impediria
+agora uma segunda onda de infecções.
+“Os adultos jovens, que se locomovem muito mais em transporte público, e que
+não apresentam sintomas importantes, parecem ter sido os grandes
+disseminadores do vírus e os responsáveis, neste segundo momento, pela
+contenção de sua propagação.”
+Kallás afirma que, no caso da gripe comum, a imunidade comunitária é atingida
+com 33% a 44% da população infectada. Em se tratando da Covid-19, a taxa
+necessária para que isso ainda é incerta, mas ele suspeita que seja menor.
+Sergio Cimerman, coordenador científico da Sociedade Brasileira de
+Infectologia (SBI), alerta, porém, para os cuidados que devem ser tomados onde
+as atividades vem sendo retomadas.“Estamos longe de qualquer sinal de uma
+segunda onda, apesar da flexibilização em muitos locais. O que é certo é que o
+risco aumenta quando existem aglomerações.”
+Para a professora e infectologista Raquel Stucchi, da Unicamp, a dinâmica da
+pandemia do novo coronavírus tem sido um aprendizado —e ele ainda não teria
+terminado.
+“O Brasil foi o único país que iniciou a flexibilização na subida da curva.
+Quem fez isso próximo do platô, parece ainda estar em situação adequada. Já o
+interior, que tentou flexibilizar antes, acabou se dando muito mal”, afirma.
+Agora, com a epidemia avançando mais no Sul, no Centro Oeste e no interior,
+esse conjunto de decisões estaduais e municipais, combinado ao enorme grau de
+desorganização do governo federal, ainda provoca cerca de 40 mil infecções e
+mais de 1.000 mortes no Brasil todos os dias.
