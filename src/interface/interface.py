@@ -13,13 +13,13 @@ class TelaPython:
                 'Preencha os campos abaixos para fazer a pesquisa.\n Os campos que contenham * são obrigatóios.\n')],
             [sg.Text('*Palavras-Chaves (ex: covid-19)'),
              sg.InputText(key='palavrachave')],
-            [sg.Text('Sites específicos (ex: g1.com.br)'),
+            [sg.Text('Sites específicos (ex: estadao.com.br)'),
              sg.InputText(key='sites')],
             [sg.Text('*Numero de páginas (ex: 2)'),
              sg.InputText(key='paginas')],
             [sg.Text('*Nome do arquivo (ex: resultado1))'),
              sg.InputText(key='arquivo')],
-            [sg.Button('Fazer a pesquisa'), sg.Button('Cancelar')],
+            [sg.Button('Fazer a pesquisa')]
         ]
         # Janela
         self.window = sg.Window('Google Search API', layout)

@@ -42,7 +42,8 @@ def applyEstadaoFilter(md):
 			break
 		del lines[0]
 
-	lines = lines[:lines.index('Institucional')]
+	if 'Institucional' in lines:
+		lines = lines[:lines.index('Institucional')]
 
 	if '### Comentários' in lines:
 		lines = lines[:lines.index('### Comentários')]
